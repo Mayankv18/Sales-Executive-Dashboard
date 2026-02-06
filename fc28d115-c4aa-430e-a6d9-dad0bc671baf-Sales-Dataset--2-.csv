@@ -1,0 +1,1001 @@
+OrderID,OrderDate,Region,State,City,CustomerID,CustomerType,ProductCategory,ProductName,Quantity,UnitPrice,DiscountPercent,SalesChannel,Salesperson,GrossSales,DiscountAmount,NetSales
+1001,2024-04-12,East,West Bengal,Mumbai,2160,Corporate,Furniture,Desk,4,1334,15,Online,Sneha,5336,800.4,4535.6
+1002,2024-12-14,East,Tamil Nadu,Chennai,2330,Retail,Electronics,Laptop,6,32714,10,Online,Amit,196284,19628.4,176655.6
+1003,2024-09-27,North,West Bengal,Mumbai,2332,Retail,Electronics,Printer,9,27898,5,Online,Priya,251082,12554.1,238527.9
+1004,2024-04-16,South,Delhi,Chennai,2049,Retail,Office Supplies,Printer,5,34992,10,Offline,Priya,174960,17496.0,157464.0
+1005,2024-03-12,South,Maharashtra,Kolkata,2522,Corporate,Furniture,Laptop,4,2913,15,Online,Rohit,11652,1747.8,9904.2
+1006,2024-07-07,West,Delhi,Chennai,2491,Corporate,Electronics,Cabinet,8,10005,20,Online,Rohit,80040,16008.0,64032.0
+1007,2024-01-21,South,Delhi,Bengaluru,2581,Corporate,Office Supplies,Router,9,37766,0,Offline,Sneha,339894,0.0,339894.0
+1008,2024-04-12,North,Karnataka,Chennai,2271,Retail,Furniture,Printer,4,2605,10,Offline,Priya,10420,1042.0,9378.0
+1009,2024-05-01,East,Karnataka,Delhi,2579,Corporate,Office Supplies,Cabinet,3,3068,5,Online,Amit,9204,460.2,8743.8
+1010,2024-08-02,South,Karnataka,Chennai,2251,Retail,Electronics,Printer,8,42598,10,Offline,Neha,340784,34078.4,306705.6
+1011,2024-11-26,West,Karnataka,Bengaluru,2559,Retail,Electronics,Laptop,5,49861,20,Offline,Amit,249305,49861.0,199444.0
+1012,2024-03-28,South,West Bengal,Bengaluru,2089,Retail,Furniture,Router,2,38179,0,Offline,Amit,76358,0.0,76358.0
+1013,2024-04-09,North,Tamil Nadu,Mumbai,2445,Retail,Office Supplies,Router,9,49885,10,Offline,Sneha,448965,44896.5,404068.5
+1014,2024-12-25,West,Maharashtra,Kolkata,2331,Retail,Furniture,Cabinet,3,34060,20,Offline,Sneha,102180,20436.0,81744.0
+1015,2024-05-31,South,Delhi,Chennai,2138,Retail,Electronics,Laptop,2,14695,5,Online,Arjun,29390,1469.5,27920.5
+1016,2024-05-10,West,West Bengal,Mumbai,2356,Corporate,Electronics,Cabinet,1,47169,15,Online,Amit,47169,7075.35,40093.65
+1017,2024-05-29,North,Maharashtra,Kolkata,2273,Retail,Office Supplies,Router,8,16262,5,Online,Amit,130096,6504.8,123591.2
+1018,2024-11-04,East,West Bengal,Chennai,2018,Retail,Office Supplies,Router,3,41794,0,Online,Sneha,125382,0.0,125382.0
+1019,2024-09-14,North,West Bengal,Delhi,2310,Corporate,Office Supplies,Desk,7,16398,5,Online,Sneha,114786,5739.3,109046.7
+1020,2024-12-09,North,Delhi,Chennai,2153,Retail,Furniture,Cabinet,1,22077,5,Online,Arjun,22077,1103.85,20973.15
+1021,2024-10-20,North,Tamil Nadu,Bengaluru,2389,Corporate,Office Supplies,Desk,1,1714,5,Online,Arjun,1714,85.7,1628.3
+1022,2024-07-10,North,Karnataka,Bengaluru,2259,Corporate,Office Supplies,Laptop,9,21303,5,Offline,Rohit,191727,9586.35,182140.65
+1023,2024-10-03,East,Tamil Nadu,Delhi,2570,Corporate,Electronics,Chair,8,48614,0,Online,Priya,388912,0.0,388912.0
+1024,2024-06-09,East,Delhi,Mumbai,2124,Retail,Electronics,Printer,3,24198,20,Online,Amit,72594,14518.8,58075.2
+1025,2024-11-09,West,Delhi,Kolkata,2353,Retail,Office Supplies,Desk,6,33480,10,Online,Amit,200880,20088.0,180792.0
+1026,2024-01-22,South,Delhi,Chennai,2272,Corporate,Office Supplies,Printer,3,2158,15,Offline,Arjun,6474,971.1,5502.9
+1027,2024-09-09,East,Maharashtra,Bengaluru,2244,Retail,Electronics,Monitor,4,12770,10,Online,Arjun,51080,5108.0,45972.0
+1028,2024-08-23,East,Tamil Nadu,Mumbai,2449,Retail,Office Supplies,Laptop,1,47297,10,Online,Rohit,47297,4729.7,42567.3
+1029,2024-12-10,South,Tamil Nadu,Delhi,2246,Corporate,Furniture,Chair,5,38292,15,Offline,Priya,191460,28719.0,162741.0
+1030,2024-02-18,East,West Bengal,Bengaluru,2519,Corporate,Furniture,Monitor,1,46307,0,Online,Rohit,46307,0.0,46307.0
+1031,2024-02-28,North,West Bengal,Delhi,2140,Retail,Furniture,Monitor,1,22801,15,Online,Priya,22801,3420.15,19380.85
+1032,2024-06-18,North,West Bengal,Chennai,2361,Corporate,Office Supplies,Router,7,5641,0,Offline,Neha,39487,0.0,39487.0
+1033,2024-07-06,South,Delhi,Kolkata,2007,Corporate,Electronics,Monitor,6,39256,10,Online,Amit,235536,23553.6,211982.4
+1034,2024-09-27,West,Tamil Nadu,Bengaluru,2477,Corporate,Office Supplies,Laptop,2,14277,0,Offline,Rohit,28554,0.0,28554.0
+1035,2024-07-08,West,Delhi,Bengaluru,2351,Retail,Office Supplies,Desk,2,38846,20,Online,Arjun,77692,15538.4,62153.6
+1036,2024-06-23,South,Maharashtra,Chennai,2494,Retail,Electronics,Laptop,7,29941,15,Online,Rohit,209587,31438.05,178148.95
+1037,2024-02-20,South,West Bengal,Mumbai,2426,Retail,Electronics,Desk,1,48319,20,Online,Neha,48319,9663.8,38655.2
+1038,2024-12-29,North,Delhi,Kolkata,2038,Corporate,Electronics,Monitor,2,28969,10,Offline,Rohit,57938,5793.8,52144.2
+1039,2024-02-24,West,Delhi,Bengaluru,2592,Retail,Furniture,Monitor,8,4345,15,Offline,Amit,34760,5214.0,29546.0
+1040,2024-08-31,East,Maharashtra,Kolkata,2186,Corporate,Office Supplies,Chair,6,45150,10,Offline,Neha,270900,27090.0,243810.0
+1041,2024-11-15,North,Karnataka,Bengaluru,2595,Retail,Electronics,Desk,2,23790,20,Online,Arjun,47580,9516.0,38064.0
+1042,2024-05-10,South,Tamil Nadu,Kolkata,2599,Retail,Office Supplies,Monitor,7,47515,10,Online,Arjun,332605,33260.5,299344.5
+1043,2024-11-02,West,Karnataka,Delhi,2092,Corporate,Furniture,Router,4,31199,15,Offline,Sneha,124796,18719.4,106076.6
+1044,2024-05-14,East,West Bengal,Bengaluru,2085,Retail,Furniture,Printer,2,44752,15,Offline,Neha,89504,13425.6,76078.4
+1045,2024-01-21,East,Delhi,Kolkata,2043,Corporate,Electronics,Chair,6,33646,10,Online,Sneha,201876,20187.6,181688.4
+1046,2024-11-24,North,Maharashtra,Mumbai,2136,Retail,Electronics,Laptop,9,3793,15,Online,Sneha,34137,5120.55,29016.45
+1047,2024-06-15,West,Maharashtra,Delhi,2420,Retail,Office Supplies,Chair,9,44898,15,Online,Amit,404082,60612.3,343469.7
+1048,2024-09-30,West,Tamil Nadu,Delhi,2073,Corporate,Electronics,Printer,8,46928,10,Online,Rohit,375424,37542.4,337881.6
+1049,2024-03-29,South,Karnataka,Mumbai,2547,Corporate,Office Supplies,Desk,3,17108,20,Offline,Arjun,51324,10264.8,41059.2
+1050,2024-11-11,West,Tamil Nadu,Kolkata,2511,Corporate,Electronics,Laptop,3,1237,15,Online,Arjun,3711,556.65,3154.35
+1051,2024-01-14,West,Delhi,Chennai,2155,Retail,Office Supplies,Laptop,2,17119,15,Online,Rohit,34238,5135.7,29102.3
+1052,2024-08-29,North,Tamil Nadu,Mumbai,2254,Retail,Office Supplies,Desk,5,12970,15,Online,Arjun,64850,9727.5,55122.5
+1053,2024-09-21,West,Maharashtra,Kolkata,2170,Retail,Office Supplies,Cabinet,4,22872,15,Online,Rohit,91488,13723.2,77764.8
+1054,2024-12-11,East,Maharashtra,Mumbai,2169,Corporate,Office Supplies,Cabinet,7,16617,10,Online,Neha,116319,11631.9,104687.1
+1055,2024-02-22,North,West Bengal,Mumbai,2321,Corporate,Furniture,Chair,4,15279,20,Online,Amit,61116,12223.2,48892.8
+1056,2024-12-05,North,West Bengal,Bengaluru,2566,Corporate,Office Supplies,Monitor,9,29794,20,Online,Amit,268146,53629.2,214516.8
+1057,2024-04-01,South,Delhi,Kolkata,2455,Retail,Electronics,Cabinet,2,22130,0,Offline,Amit,44260,0.0,44260.0
+1058,2024-09-20,West,Karnataka,Chennai,2154,Retail,Furniture,Chair,6,40539,15,Offline,Rohit,243234,36485.1,206748.9
+1059,2024-02-04,South,Tamil Nadu,Bengaluru,2348,Corporate,Furniture,Cabinet,7,12678,15,Offline,Rohit,88746,13311.9,75434.1
+1060,2024-07-24,East,Delhi,Mumbai,2450,Retail,Office Supplies,Printer,4,20435,0,Online,Priya,81740,0.0,81740.0
+1061,2024-03-21,North,West Bengal,Mumbai,2172,Corporate,Furniture,Router,6,47758,20,Offline,Arjun,286548,57309.6,229238.4
+1062,2024-02-19,North,Tamil Nadu,Mumbai,2009,Retail,Office Supplies,Monitor,7,23284,5,Online,Arjun,162988,8149.4,154838.6
+1063,2024-12-25,North,West Bengal,Kolkata,2264,Retail,Electronics,Chair,4,23527,5,Online,Priya,94108,4705.4,89402.6
+1064,2024-01-02,East,Tamil Nadu,Kolkata,2437,Corporate,Office Supplies,Router,8,31508,20,Online,Priya,252064,50412.8,201651.2
+1065,2024-02-23,East,Karnataka,Bengaluru,2246,Retail,Furniture,Router,9,47131,15,Online,Amit,424179,63626.85,360552.15
+1066,2024-04-15,South,Delhi,Chennai,2545,Retail,Electronics,Cabinet,1,2323,5,Offline,Priya,2323,116.15,2206.85
+1067,2024-09-16,South,Tamil Nadu,Bengaluru,2498,Corporate,Office Supplies,Desk,7,7352,10,Online,Rohit,51464,5146.4,46317.6
+1068,2024-11-05,South,Maharashtra,Delhi,2128,Corporate,Electronics,Printer,9,13572,10,Online,Sneha,122148,12214.8,109933.2
+1069,2024-07-09,West,Maharashtra,Mumbai,2326,Retail,Electronics,Printer,5,11633,0,Offline,Rohit,58165,0.0,58165.0
+1070,2024-08-05,North,Tamil Nadu,Mumbai,2403,Corporate,Furniture,Printer,2,15611,20,Offline,Priya,31222,6244.4,24977.6
+1071,2024-02-13,North,Tamil Nadu,Mumbai,2358,Retail,Electronics,Monitor,6,32812,20,Offline,Arjun,196872,39374.4,157497.6
+1072,2024-06-10,South,Tamil Nadu,Bengaluru,2016,Corporate,Furniture,Laptop,7,24661,5,Online,Rohit,172627,8631.35,163995.65
+1073,2024-07-20,North,Maharashtra,Bengaluru,2273,Retail,Electronics,Monitor,2,39787,15,Offline,Arjun,79574,11936.1,67637.9
+1074,2024-09-26,South,Maharashtra,Mumbai,2115,Retail,Office Supplies,Chair,2,2277,20,Online,Rohit,4554,910.8,3643.2
+1075,2024-12-16,West,Tamil Nadu,Bengaluru,2090,Corporate,Electronics,Router,1,24514,5,Online,Arjun,24514,1225.7,23288.3
+1076,2024-10-30,West,West Bengal,Kolkata,2081,Retail,Office Supplies,Router,4,15272,5,Offline,Neha,61088,3054.4,58033.6
+1077,2024-09-27,East,West Bengal,Kolkata,2323,Retail,Office Supplies,Laptop,7,46889,20,Offline,Rohit,328223,65644.6,262578.4
+1078,2024-08-02,West,Karnataka,Bengaluru,2113,Corporate,Electronics,Chair,9,45127,5,Offline,Arjun,406143,20307.15,385835.85
+1079,2024-09-08,South,Delhi,Mumbai,2057,Corporate,Office Supplies,Laptop,3,18661,0,Online,Sneha,55983,0.0,55983.0
+1080,2024-07-08,West,West Bengal,Bengaluru,2153,Retail,Electronics,Router,7,42764,0,Online,Amit,299348,0.0,299348.0
+1081,2024-10-22,East,Maharashtra,Bengaluru,2403,Corporate,Electronics,Cabinet,7,7990,20,Online,Rohit,55930,11186.0,44744.0
+1082,2024-07-31,North,West Bengal,Bengaluru,2265,Corporate,Office Supplies,Monitor,7,42161,15,Online,Sneha,295127,44269.05,250857.95
+1083,2024-07-26,South,Karnataka,Delhi,2314,Retail,Office Supplies,Printer,2,25002,0,Online,Amit,50004,0.0,50004.0
+1084,2024-08-24,North,Karnataka,Kolkata,2040,Retail,Furniture,Router,6,36257,0,Online,Rohit,217542,0.0,217542.0
+1085,2024-12-03,East,Delhi,Chennai,2104,Corporate,Office Supplies,Desk,2,41611,20,Offline,Sneha,83222,16644.4,66577.6
+1086,2024-02-22,East,West Bengal,Chennai,2192,Corporate,Furniture,Printer,6,33237,10,Online,Sneha,199422,19942.2,179479.8
+1087,2024-10-06,East,Maharashtra,Delhi,2400,Corporate,Office Supplies,Router,3,18209,5,Offline,Neha,54627,2731.35,51895.65
+1088,2024-08-04,North,Maharashtra,Bengaluru,2277,Retail,Electronics,Monitor,2,45182,0,Offline,Sneha,90364,0.0,90364.0
+1089,2024-09-08,North,Tamil Nadu,Delhi,2353,Retail,Office Supplies,Laptop,6,9498,10,Offline,Neha,56988,5698.8,51289.2
+1090,2024-07-06,North,Maharashtra,Delhi,2579,Retail,Electronics,Cabinet,2,29406,15,Offline,Priya,58812,8821.8,49990.2
+1091,2024-02-10,North,Delhi,Mumbai,2255,Retail,Electronics,Cabinet,5,35990,10,Offline,Arjun,179950,17995.0,161955.0
+1092,2024-06-05,East,Delhi,Kolkata,2098,Retail,Electronics,Printer,2,5156,20,Online,Amit,10312,2062.4,8249.6
+1093,2024-01-15,East,Maharashtra,Chennai,2587,Retail,Furniture,Monitor,3,37401,15,Online,Arjun,112203,16830.45,95372.55
+1094,2024-10-27,South,Maharashtra,Bengaluru,2281,Retail,Office Supplies,Cabinet,3,26235,15,Online,Arjun,78705,11805.75,66899.25
+1095,2024-03-05,South,Tamil Nadu,Chennai,2402,Corporate,Electronics,Cabinet,6,29592,10,Online,Neha,177552,17755.2,159796.8
+1096,2024-12-10,North,Maharashtra,Chennai,2108,Corporate,Electronics,Chair,6,1742,20,Offline,Arjun,10452,2090.4,8361.6
+1097,2024-11-22,West,Tamil Nadu,Kolkata,2198,Retail,Furniture,Desk,3,41807,0,Offline,Sneha,125421,0.0,125421.0
+1098,2024-01-09,West,Tamil Nadu,Chennai,2302,Retail,Office Supplies,Printer,3,2331,10,Offline,Neha,6993,699.3,6293.7
+1099,2024-12-09,East,Maharashtra,Chennai,2326,Retail,Office Supplies,Laptop,1,29011,0,Online,Arjun,29011,0.0,29011.0
+1100,2024-05-08,East,Karnataka,Delhi,2153,Corporate,Furniture,Cabinet,7,7746,10,Online,Neha,54222,5422.2,48799.8
+1101,2024-05-15,East,Karnataka,Kolkata,2551,Retail,Furniture,Chair,8,31967,0,Online,Priya,255736,0.0,255736.0
+1102,2024-03-03,South,Tamil Nadu,Mumbai,2404,Corporate,Office Supplies,Monitor,2,18802,10,Online,Neha,37604,3760.4,33843.6
+1103,2024-05-18,South,Maharashtra,Bengaluru,2461,Corporate,Furniture,Cabinet,4,3732,15,Offline,Rohit,14928,2239.2,12688.8
+1104,2024-03-21,East,Karnataka,Chennai,2131,Corporate,Office Supplies,Desk,7,37026,5,Offline,Sneha,259182,12959.1,246222.9
+1105,2024-06-11,East,Maharashtra,Bengaluru,2083,Corporate,Office Supplies,Laptop,8,39265,15,Online,Amit,314120,47118.0,267002.0
+1106,2024-10-15,East,Maharashtra,Mumbai,2398,Corporate,Electronics,Monitor,1,11472,0,Online,Rohit,11472,0.0,11472.0
+1107,2024-09-17,West,Maharashtra,Bengaluru,2108,Retail,Electronics,Monitor,4,48636,20,Offline,Rohit,194544,38908.8,155635.2
+1108,2024-08-18,South,West Bengal,Mumbai,2220,Retail,Office Supplies,Printer,6,35092,15,Offline,Rohit,210552,31582.8,178969.2
+1109,2024-02-10,West,Maharashtra,Delhi,2552,Corporate,Office Supplies,Cabinet,3,11183,5,Offline,Arjun,33549,1677.45,31871.55
+1110,2024-01-28,West,West Bengal,Chennai,2367,Retail,Office Supplies,Printer,5,24164,0,Offline,Neha,120820,0.0,120820.0
+1111,2024-05-14,East,Tamil Nadu,Mumbai,2146,Corporate,Office Supplies,Laptop,9,37328,15,Online,Neha,335952,50392.8,285559.2
+1112,2024-07-19,East,Karnataka,Bengaluru,2111,Corporate,Office Supplies,Cabinet,3,33672,10,Offline,Arjun,101016,10101.6,90914.4
+1113,2024-11-23,North,Karnataka,Chennai,2557,Retail,Office Supplies,Router,5,18605,20,Offline,Sneha,93025,18605.0,74420.0
+1114,2024-09-24,North,Karnataka,Delhi,2493,Retail,Furniture,Cabinet,8,22200,0,Offline,Arjun,177600,0.0,177600.0
+1115,2024-02-02,West,Karnataka,Chennai,2504,Retail,Office Supplies,Router,6,11517,15,Offline,Arjun,69102,10365.3,58736.7
+1116,2024-02-17,South,Karnataka,Mumbai,2474,Retail,Furniture,Monitor,4,37113,0,Online,Arjun,148452,0.0,148452.0
+1117,2024-03-02,East,Karnataka,Delhi,2270,Retail,Furniture,Printer,8,21094,10,Online,Sneha,168752,16875.2,151876.8
+1118,2024-08-03,East,Karnataka,Bengaluru,2420,Corporate,Office Supplies,Desk,3,11884,5,Online,Sneha,35652,1782.6,33869.4
+1119,2024-10-19,West,Tamil Nadu,Delhi,2366,Retail,Office Supplies,Cabinet,3,30848,15,Online,Priya,92544,13881.6,78662.4
+1120,2024-04-08,North,Maharashtra,Delhi,2279,Retail,Furniture,Desk,4,16948,0,Online,Priya,67792,0.0,67792.0
+1121,2024-06-20,South,Delhi,Kolkata,2282,Retail,Furniture,Cabinet,9,9991,0,Online,Priya,89919,0.0,89919.0
+1122,2024-12-25,North,West Bengal,Delhi,2039,Corporate,Office Supplies,Monitor,5,13612,0,Offline,Priya,68060,0.0,68060.0
+1123,2024-08-01,North,Delhi,Delhi,2188,Retail,Office Supplies,Printer,8,31521,5,Offline,Neha,252168,12608.4,239559.6
+1124,2024-02-04,North,Delhi,Chennai,2163,Corporate,Furniture,Laptop,6,45053,0,Offline,Rohit,270318,0.0,270318.0
+1125,2024-08-14,North,Maharashtra,Bengaluru,2535,Retail,Furniture,Laptop,3,1468,20,Offline,Rohit,4404,880.8,3523.2
+1126,2024-04-10,East,Maharashtra,Chennai,2535,Retail,Furniture,Laptop,8,868,20,Online,Priya,6944,1388.8,5555.2
+1127,2024-05-10,East,Maharashtra,Chennai,2003,Corporate,Electronics,Cabinet,9,8924,0,Offline,Priya,80316,0.0,80316.0
+1128,2024-09-13,North,Karnataka,Mumbai,2289,Retail,Furniture,Cabinet,8,35510,20,Online,Amit,284080,56816.0,227264.0
+1129,2024-01-05,South,Tamil Nadu,Chennai,2432,Retail,Electronics,Desk,4,36351,15,Offline,Rohit,145404,21810.6,123593.4
+1130,2024-08-05,West,Karnataka,Kolkata,2470,Corporate,Office Supplies,Printer,6,25996,20,Offline,Amit,155976,31195.2,124780.8
+1131,2024-09-11,South,Tamil Nadu,Kolkata,2180,Retail,Office Supplies,Cabinet,1,31436,0,Offline,Amit,31436,0.0,31436.0
+1132,2024-12-24,South,Tamil Nadu,Mumbai,2247,Corporate,Furniture,Printer,4,13822,10,Online,Arjun,55288,5528.8,49759.2
+1133,2024-10-09,South,Delhi,Bengaluru,2278,Corporate,Office Supplies,Desk,8,1969,15,Offline,Neha,15752,2362.8,13389.2
+1134,2024-07-25,North,Delhi,Bengaluru,2580,Corporate,Office Supplies,Cabinet,1,37993,5,Online,Sneha,37993,1899.65,36093.35
+1135,2024-01-15,East,Tamil Nadu,Chennai,2253,Corporate,Office Supplies,Laptop,3,4759,0,Online,Rohit,14277,0.0,14277.0
+1136,2024-12-11,South,Tamil Nadu,Chennai,2180,Corporate,Office Supplies,Laptop,1,36890,5,Offline,Priya,36890,1844.5,35045.5
+1137,2024-02-11,North,Karnataka,Chennai,2508,Retail,Electronics,Monitor,9,10792,10,Online,Priya,97128,9712.8,87415.2
+1138,2024-06-27,South,Karnataka,Bengaluru,2565,Retail,Electronics,Router,2,27341,5,Online,Sneha,54682,2734.1,51947.9
+1139,2024-03-03,South,Delhi,Delhi,2325,Retail,Furniture,Chair,9,28865,0,Offline,Rohit,259785,0.0,259785.0
+1140,2024-12-17,North,Maharashtra,Kolkata,2356,Corporate,Furniture,Router,4,17707,0,Offline,Priya,70828,0.0,70828.0
+1141,2024-08-18,East,Tamil Nadu,Delhi,2390,Corporate,Furniture,Cabinet,2,36699,10,Offline,Priya,73398,7339.8,66058.2
+1142,2024-08-28,East,Karnataka,Delhi,2084,Corporate,Office Supplies,Printer,4,23412,0,Offline,Arjun,93648,0.0,93648.0
+1143,2024-02-21,West,Delhi,Bengaluru,2316,Corporate,Office Supplies,Cabinet,6,37419,10,Offline,Amit,224514,22451.4,202062.6
+1144,2024-04-05,North,Karnataka,Delhi,2211,Retail,Electronics,Printer,7,37481,10,Offline,Priya,262367,26236.7,236130.3
+1145,2024-08-09,West,Tamil Nadu,Mumbai,2514,Retail,Electronics,Printer,3,15735,0,Online,Neha,47205,0.0,47205.0
+1146,2024-08-18,West,Tamil Nadu,Chennai,2383,Corporate,Furniture,Router,3,42257,20,Offline,Rohit,126771,25354.2,101416.8
+1147,2024-08-24,West,West Bengal,Mumbai,2341,Corporate,Electronics,Chair,8,34047,10,Offline,Neha,272376,27237.6,245138.4
+1148,2024-05-22,East,Maharashtra,Kolkata,2037,Retail,Electronics,Monitor,5,48619,0,Online,Sneha,243095,0.0,243095.0
+1149,2024-06-19,North,West Bengal,Chennai,2510,Corporate,Electronics,Router,4,44310,20,Offline,Arjun,177240,35448.0,141792.0
+1150,2024-01-29,West,Delhi,Delhi,2419,Corporate,Electronics,Chair,7,19776,10,Online,Rohit,138432,13843.2,124588.8
+1151,2024-02-05,North,Karnataka,Kolkata,2168,Corporate,Electronics,Laptop,7,32423,20,Offline,Arjun,226961,45392.2,181568.8
+1152,2024-01-13,North,Delhi,Chennai,2342,Retail,Furniture,Laptop,9,6034,15,Offline,Amit,54306,8145.9,46160.1
+1153,2024-06-08,East,Tamil Nadu,Delhi,2305,Retail,Furniture,Printer,9,26969,15,Online,Priya,242721,36408.15,206312.85
+1154,2024-11-22,West,West Bengal,Mumbai,2541,Corporate,Electronics,Desk,5,36574,20,Offline,Rohit,182870,36574.0,146296.0
+1155,2024-07-05,West,West Bengal,Chennai,2536,Retail,Furniture,Cabinet,8,36170,10,Online,Sneha,289360,28936.0,260424.0
+1156,2024-08-30,North,West Bengal,Delhi,2111,Corporate,Office Supplies,Cabinet,1,33063,0,Offline,Amit,33063,0.0,33063.0
+1157,2024-03-26,South,Delhi,Mumbai,2410,Corporate,Electronics,Printer,9,46659,5,Offline,Amit,419931,20996.55,398934.45
+1158,2024-10-10,East,Tamil Nadu,Kolkata,2205,Retail,Office Supplies,Desk,8,36986,0,Online,Arjun,295888,0.0,295888.0
+1159,2024-03-06,East,Karnataka,Kolkata,2184,Corporate,Furniture,Chair,6,521,5,Offline,Amit,3126,156.3,2969.7
+1160,2024-06-18,East,Karnataka,Kolkata,2381,Corporate,Furniture,Laptop,3,34768,5,Offline,Rohit,104304,5215.2,99088.8
+1161,2024-02-14,East,Delhi,Kolkata,2495,Retail,Office Supplies,Cabinet,3,42302,10,Online,Arjun,126906,12690.6,114215.4
+1162,2024-03-02,West,West Bengal,Bengaluru,2378,Corporate,Furniture,Router,8,16299,20,Offline,Amit,130392,26078.4,104313.6
+1163,2024-05-13,West,Maharashtra,Chennai,2046,Corporate,Electronics,Desk,5,26836,0,Online,Sneha,134180,0.0,134180.0
+1164,2024-10-10,South,Delhi,Chennai,2550,Corporate,Office Supplies,Chair,7,4141,20,Offline,Neha,28987,5797.4,23189.6
+1165,2024-01-28,East,Delhi,Bengaluru,2527,Retail,Electronics,Laptop,5,22096,15,Online,Rohit,110480,16572.0,93908.0
+1166,2024-04-17,East,Tamil Nadu,Delhi,2503,Corporate,Office Supplies,Router,8,33459,10,Offline,Sneha,267672,26767.2,240904.8
+1167,2024-02-13,North,Karnataka,Delhi,2021,Retail,Furniture,Desk,4,13806,10,Online,Sneha,55224,5522.4,49701.6
+1168,2024-12-05,West,Delhi,Kolkata,2212,Corporate,Office Supplies,Printer,2,46682,15,Online,Arjun,93364,14004.6,79359.4
+1169,2024-10-12,East,Delhi,Mumbai,2309,Corporate,Office Supplies,Printer,3,9087,0,Offline,Priya,27261,0.0,27261.0
+1170,2024-11-26,South,West Bengal,Delhi,2271,Corporate,Electronics,Printer,8,31859,15,Offline,Arjun,254872,38230.8,216641.2
+1171,2024-05-07,South,West Bengal,Mumbai,2570,Corporate,Furniture,Cabinet,7,21998,0,Online,Rohit,153986,0.0,153986.0
+1172,2024-12-13,West,Maharashtra,Chennai,2201,Retail,Electronics,Chair,2,5162,5,Offline,Rohit,10324,516.2,9807.8
+1173,2024-08-18,South,Tamil Nadu,Mumbai,2031,Retail,Furniture,Printer,6,37594,10,Online,Arjun,225564,22556.4,203007.6
+1174,2024-07-08,South,Maharashtra,Chennai,2442,Corporate,Electronics,Cabinet,9,42333,0,Offline,Priya,380997,0.0,380997.0
+1175,2024-08-12,West,West Bengal,Bengaluru,2161,Corporate,Office Supplies,Monitor,4,27697,20,Offline,Arjun,110788,22157.6,88630.4
+1176,2024-10-09,East,Karnataka,Bengaluru,2253,Corporate,Electronics,Cabinet,9,21219,20,Online,Rohit,190971,38194.2,152776.8
+1177,2024-04-30,East,West Bengal,Kolkata,2520,Corporate,Furniture,Laptop,2,25165,10,Online,Priya,50330,5033.0,45297.0
+1178,2024-04-25,South,Tamil Nadu,Delhi,2479,Corporate,Furniture,Cabinet,2,43739,15,Offline,Rohit,87478,13121.7,74356.3
+1179,2024-08-20,South,West Bengal,Kolkata,2009,Corporate,Office Supplies,Chair,9,25532,15,Offline,Priya,229788,34468.2,195319.8
+1180,2024-09-15,East,Tamil Nadu,Chennai,2504,Corporate,Furniture,Router,7,13141,0,Offline,Priya,91987,0.0,91987.0
+1181,2024-12-24,West,Tamil Nadu,Kolkata,2559,Corporate,Electronics,Cabinet,7,42464,15,Offline,Arjun,297248,44587.2,252660.8
+1182,2024-07-16,South,Tamil Nadu,Mumbai,2435,Retail,Office Supplies,Printer,1,30528,10,Offline,Arjun,30528,3052.8,27475.2
+1183,2024-05-16,North,Tamil Nadu,Chennai,2110,Retail,Furniture,Laptop,6,45994,0,Online,Arjun,275964,0.0,275964.0
+1184,2024-11-13,West,Tamil Nadu,Bengaluru,2152,Retail,Furniture,Desk,7,16151,5,Offline,Priya,113057,5652.85,107404.15
+1185,2024-06-13,South,Karnataka,Delhi,2101,Corporate,Electronics,Printer,6,9036,15,Offline,Priya,54216,8132.4,46083.6
+1186,2024-08-12,South,Maharashtra,Chennai,2190,Corporate,Electronics,Laptop,6,46212,15,Online,Rohit,277272,41590.8,235681.2
+1187,2024-11-02,North,Delhi,Chennai,2562,Corporate,Office Supplies,Monitor,2,6773,0,Online,Sneha,13546,0.0,13546.0
+1188,2024-08-21,North,Maharashtra,Mumbai,2080,Retail,Furniture,Desk,6,6784,20,Online,Arjun,40704,8140.8,32563.2
+1189,2024-06-20,East,Tamil Nadu,Delhi,2488,Corporate,Electronics,Monitor,4,26192,15,Offline,Neha,104768,15715.2,89052.8
+1190,2024-05-31,West,Karnataka,Bengaluru,2087,Retail,Office Supplies,Router,9,9317,10,Online,Rohit,83853,8385.3,75467.7
+1191,2024-11-10,West,West Bengal,Chennai,2193,Corporate,Furniture,Laptop,1,29455,15,Online,Rohit,29455,4418.25,25036.75
+1192,2024-06-08,East,Karnataka,Chennai,2103,Retail,Furniture,Monitor,8,27055,5,Online,Amit,216440,10822.0,205618.0
+1193,2024-04-05,West,Tamil Nadu,Mumbai,2095,Retail,Office Supplies,Router,5,20878,15,Online,Arjun,104390,15658.5,88731.5
+1194,2024-08-20,West,Karnataka,Kolkata,2422,Retail,Office Supplies,Laptop,1,41682,20,Offline,Rohit,41682,8336.4,33345.6
+1195,2024-06-28,West,Karnataka,Bengaluru,2197,Corporate,Electronics,Laptop,4,17627,15,Offline,Amit,70508,10576.2,59931.8
+1196,2024-04-22,West,Tamil Nadu,Delhi,2000,Retail,Furniture,Monitor,1,18452,0,Offline,Neha,18452,0.0,18452.0
+1197,2024-11-13,West,Karnataka,Chennai,2406,Corporate,Furniture,Laptop,6,12039,15,Online,Neha,72234,10835.1,61398.9
+1198,2024-02-21,North,Delhi,Chennai,2377,Corporate,Furniture,Printer,2,47261,20,Online,Arjun,94522,18904.4,75617.6
+1199,2024-09-24,West,Delhi,Bengaluru,2166,Corporate,Office Supplies,Laptop,5,46719,0,Online,Priya,233595,0.0,233595.0
+1200,2024-10-21,North,Karnataka,Kolkata,2508,Corporate,Electronics,Chair,7,15192,10,Online,Amit,106344,10634.4,95709.6
+1201,2024-04-22,West,West Bengal,Chennai,2312,Corporate,Furniture,Router,2,18620,0,Online,Priya,37240,0.0,37240.0
+1202,2024-04-10,East,Tamil Nadu,Bengaluru,2592,Retail,Office Supplies,Laptop,6,13834,5,Online,Neha,83004,4150.2,78853.8
+1203,2024-04-22,South,Delhi,Mumbai,2417,Corporate,Furniture,Chair,6,29115,0,Offline,Neha,174690,0.0,174690.0
+1204,2024-03-21,North,West Bengal,Kolkata,2476,Corporate,Electronics,Laptop,5,8403,10,Offline,Sneha,42015,4201.5,37813.5
+1205,2024-07-05,West,Karnataka,Delhi,2072,Corporate,Furniture,Laptop,5,29027,15,Online,Sneha,145135,21770.25,123364.75
+1206,2024-04-22,East,West Bengal,Chennai,2140,Corporate,Electronics,Monitor,3,16129,0,Offline,Sneha,48387,0.0,48387.0
+1207,2024-01-02,South,Maharashtra,Bengaluru,2581,Corporate,Electronics,Printer,2,18240,0,Online,Sneha,36480,0.0,36480.0
+1208,2024-05-09,North,Delhi,Mumbai,2261,Retail,Furniture,Router,7,34282,0,Online,Rohit,239974,0.0,239974.0
+1209,2024-08-07,South,Karnataka,Delhi,2339,Retail,Furniture,Printer,1,27208,0,Offline,Sneha,27208,0.0,27208.0
+1210,2024-02-23,East,Tamil Nadu,Bengaluru,2307,Corporate,Electronics,Desk,6,11360,10,Online,Rohit,68160,6816.0,61344.0
+1211,2024-12-08,North,Karnataka,Bengaluru,2244,Retail,Office Supplies,Monitor,6,17938,20,Offline,Rohit,107628,21525.6,86102.4
+1212,2024-08-11,South,Tamil Nadu,Delhi,2514,Retail,Electronics,Monitor,3,2264,20,Online,Arjun,6792,1358.4,5433.6
+1213,2024-08-12,West,Karnataka,Mumbai,2336,Corporate,Furniture,Printer,2,6509,0,Online,Rohit,13018,0.0,13018.0
+1214,2024-05-05,North,West Bengal,Mumbai,2574,Retail,Furniture,Cabinet,2,21342,10,Offline,Rohit,42684,4268.4,38415.6
+1215,2024-05-09,South,West Bengal,Kolkata,2560,Corporate,Office Supplies,Monitor,9,42872,10,Online,Sneha,385848,38584.8,347263.2
+1216,2024-02-22,East,West Bengal,Chennai,2075,Retail,Electronics,Printer,5,49280,0,Online,Rohit,246400,0.0,246400.0
+1217,2024-06-20,East,Maharashtra,Delhi,2174,Retail,Electronics,Monitor,7,33935,5,Online,Priya,237545,11877.25,225667.75
+1218,2024-08-05,North,Tamil Nadu,Delhi,2108,Retail,Electronics,Laptop,5,3870,0,Offline,Sneha,19350,0.0,19350.0
+1219,2024-06-08,South,West Bengal,Delhi,2182,Corporate,Furniture,Printer,7,39244,5,Online,Amit,274708,13735.4,260972.6
+1220,2024-07-16,North,Maharashtra,Mumbai,2191,Retail,Electronics,Printer,4,20954,0,Online,Sneha,83816,0.0,83816.0
+1221,2024-09-03,North,Tamil Nadu,Chennai,2064,Retail,Office Supplies,Chair,8,41881,5,Online,Rohit,335048,16752.4,318295.6
+1222,2024-11-19,South,Karnataka,Kolkata,2473,Corporate,Furniture,Monitor,7,38867,5,Offline,Priya,272069,13603.45,258465.55
+1223,2024-07-21,South,Maharashtra,Bengaluru,2099,Corporate,Furniture,Monitor,5,4150,0,Offline,Sneha,20750,0.0,20750.0
+1224,2024-07-02,West,Delhi,Bengaluru,2543,Retail,Electronics,Printer,6,45617,5,Offline,Priya,273702,13685.1,260016.9
+1225,2024-05-02,South,Maharashtra,Delhi,2127,Corporate,Office Supplies,Laptop,5,26208,15,Offline,Amit,131040,19656.0,111384.0
+1226,2024-09-11,East,Maharashtra,Chennai,2451,Retail,Furniture,Laptop,7,43162,20,Offline,Neha,302134,60426.8,241707.2
+1227,2024-10-20,North,Tamil Nadu,Mumbai,2368,Retail,Furniture,Router,2,3690,10,Online,Amit,7380,738.0,6642.0
+1228,2024-10-06,North,Karnataka,Chennai,2042,Corporate,Electronics,Laptop,5,48613,5,Offline,Neha,243065,12153.25,230911.75
+1229,2024-11-20,East,Delhi,Chennai,2418,Corporate,Electronics,Monitor,3,9289,5,Offline,Arjun,27867,1393.35,26473.65
+1230,2024-04-07,South,West Bengal,Mumbai,2487,Corporate,Office Supplies,Cabinet,9,32625,10,Online,Neha,293625,29362.5,264262.5
+1231,2024-07-16,East,West Bengal,Delhi,2077,Retail,Electronics,Chair,6,33659,5,Offline,Arjun,201954,10097.7,191856.3
+1232,2024-08-27,East,Maharashtra,Chennai,2269,Corporate,Office Supplies,Printer,3,17959,10,Online,Sneha,53877,5387.7,48489.3
+1233,2024-05-23,West,Tamil Nadu,Bengaluru,2314,Retail,Furniture,Desk,7,35918,0,Offline,Arjun,251426,0.0,251426.0
+1234,2024-04-06,East,Tamil Nadu,Mumbai,2167,Corporate,Office Supplies,Chair,4,46868,15,Online,Priya,187472,28120.8,159351.2
+1235,2024-07-19,North,West Bengal,Kolkata,2338,Retail,Office Supplies,Cabinet,3,47585,15,Online,Arjun,142755,21413.25,121341.75
+1236,2024-05-03,East,Delhi,Delhi,2192,Corporate,Office Supplies,Desk,8,19268,20,Offline,Priya,154144,30828.8,123315.2
+1237,2024-07-05,North,Karnataka,Mumbai,2452,Retail,Furniture,Chair,4,16063,5,Offline,Neha,64252,3212.6,61039.4
+1238,2024-11-21,North,Delhi,Kolkata,2282,Corporate,Electronics,Laptop,1,28385,20,Online,Neha,28385,5677.0,22708.0
+1239,2024-12-14,North,Karnataka,Kolkata,2335,Retail,Furniture,Monitor,6,22385,0,Online,Neha,134310,0.0,134310.0
+1240,2024-09-15,South,West Bengal,Chennai,2389,Corporate,Electronics,Cabinet,1,7395,15,Online,Arjun,7395,1109.25,6285.75
+1241,2024-05-27,West,Karnataka,Chennai,2524,Corporate,Office Supplies,Desk,5,24458,0,Online,Neha,122290,0.0,122290.0
+1242,2024-09-08,North,Tamil Nadu,Chennai,2239,Retail,Office Supplies,Cabinet,7,2031,0,Online,Arjun,14217,0.0,14217.0
+1243,2024-12-11,North,Maharashtra,Mumbai,2482,Corporate,Office Supplies,Chair,6,5981,5,Online,Arjun,35886,1794.3,34091.7
+1244,2024-05-26,South,Maharashtra,Mumbai,2591,Retail,Office Supplies,Monitor,2,24432,0,Online,Rohit,48864,0.0,48864.0
+1245,2024-05-27,North,West Bengal,Delhi,2554,Retail,Office Supplies,Cabinet,4,21860,15,Offline,Rohit,87440,13116.0,74324.0
+1246,2024-12-17,East,Tamil Nadu,Chennai,2457,Corporate,Electronics,Desk,2,44142,20,Online,Arjun,88284,17656.8,70627.2
+1247,2024-07-17,East,Delhi,Kolkata,2088,Retail,Electronics,Printer,1,25329,15,Offline,Priya,25329,3799.35,21529.65
+1248,2024-11-03,West,Tamil Nadu,Bengaluru,2094,Corporate,Office Supplies,Chair,3,20432,5,Offline,Sneha,61296,3064.8,58231.2
+1249,2024-05-07,North,Maharashtra,Delhi,2451,Corporate,Furniture,Printer,3,39431,15,Online,Amit,118293,17743.95,100549.05
+1250,2024-02-08,South,Maharashtra,Mumbai,2427,Retail,Furniture,Laptop,7,38532,10,Online,Rohit,269724,26972.4,242751.6
+1251,2024-12-03,East,Tamil Nadu,Delhi,2150,Corporate,Office Supplies,Printer,1,16390,20,Offline,Arjun,16390,3278.0,13112.0
+1252,2024-12-25,South,Tamil Nadu,Delhi,2513,Retail,Electronics,Printer,9,19307,10,Online,Amit,173763,17376.3,156386.7
+1253,2024-05-08,South,Maharashtra,Delhi,2375,Retail,Furniture,Router,6,12267,10,Online,Rohit,73602,7360.2,66241.8
+1254,2024-09-23,East,Delhi,Delhi,2021,Corporate,Furniture,Chair,4,8571,5,Offline,Sneha,34284,1714.2,32569.8
+1255,2024-05-30,South,West Bengal,Bengaluru,2312,Corporate,Furniture,Laptop,3,26649,0,Offline,Priya,79947,0.0,79947.0
+1256,2024-10-24,East,West Bengal,Chennai,2518,Retail,Office Supplies,Printer,3,16040,10,Offline,Arjun,48120,4812.0,43308.0
+1257,2024-04-08,South,Tamil Nadu,Kolkata,2205,Retail,Furniture,Monitor,2,36176,15,Online,Sneha,72352,10852.8,61499.2
+1258,2024-09-19,East,West Bengal,Delhi,2374,Corporate,Furniture,Desk,2,5212,0,Online,Rohit,10424,0.0,10424.0
+1259,2024-09-08,North,Maharashtra,Delhi,2450,Corporate,Furniture,Printer,5,26701,15,Offline,Arjun,133505,20025.75,113479.25
+1260,2024-05-23,West,Maharashtra,Delhi,2594,Corporate,Furniture,Laptop,9,45458,15,Online,Amit,409122,61368.3,347753.7
+1261,2024-12-11,East,Tamil Nadu,Chennai,2178,Corporate,Electronics,Printer,2,20399,0,Offline,Neha,40798,0.0,40798.0
+1262,2024-04-21,East,Tamil Nadu,Mumbai,2209,Retail,Office Supplies,Desk,2,20287,0,Online,Priya,40574,0.0,40574.0
+1263,2024-02-29,West,Tamil Nadu,Mumbai,2499,Corporate,Office Supplies,Laptop,6,21482,15,Offline,Rohit,128892,19333.8,109558.2
+1264,2024-01-02,East,Delhi,Bengaluru,2463,Retail,Electronics,Chair,2,23106,5,Online,Priya,46212,2310.6,43901.4
+1265,2024-10-30,East,West Bengal,Mumbai,2123,Retail,Electronics,Laptop,4,10650,20,Offline,Arjun,42600,8520.0,34080.0
+1266,2024-09-10,South,Tamil Nadu,Delhi,2112,Corporate,Office Supplies,Chair,6,20893,20,Online,Neha,125358,25071.6,100286.4
+1267,2024-05-19,West,Karnataka,Delhi,2011,Retail,Furniture,Laptop,5,37759,5,Online,Sneha,188795,9439.75,179355.25
+1268,2024-02-06,North,Karnataka,Delhi,2125,Corporate,Furniture,Cabinet,1,47187,0,Offline,Priya,47187,0.0,47187.0
+1269,2024-06-08,East,Maharashtra,Bengaluru,2564,Retail,Office Supplies,Desk,6,47436,15,Online,Amit,284616,42692.4,241923.6
+1270,2024-01-09,West,West Bengal,Delhi,2330,Corporate,Furniture,Desk,1,28250,20,Online,Rohit,28250,5650.0,22600.0
+1271,2024-08-20,South,Tamil Nadu,Mumbai,2282,Retail,Electronics,Laptop,3,9093,15,Offline,Amit,27279,4091.85,23187.15
+1272,2024-04-08,North,Karnataka,Chennai,2139,Retail,Furniture,Cabinet,5,17858,5,Online,Priya,89290,4464.5,84825.5
+1273,2024-05-26,West,West Bengal,Chennai,2400,Corporate,Furniture,Printer,5,17107,15,Online,Neha,85535,12830.25,72704.75
+1274,2024-10-30,North,Maharashtra,Kolkata,2096,Corporate,Furniture,Desk,6,37881,5,Online,Sneha,227286,11364.3,215921.7
+1275,2024-07-26,North,Delhi,Mumbai,2516,Retail,Office Supplies,Chair,8,25311,0,Offline,Sneha,202488,0.0,202488.0
+1276,2024-05-10,North,West Bengal,Delhi,2568,Retail,Electronics,Chair,5,28574,5,Offline,Amit,142870,7143.5,135726.5
+1277,2024-05-31,East,West Bengal,Chennai,2068,Corporate,Furniture,Monitor,1,21095,5,Offline,Arjun,21095,1054.75,20040.25
+1278,2024-02-23,East,Delhi,Mumbai,2117,Retail,Office Supplies,Router,5,44694,20,Offline,Arjun,223470,44694.0,178776.0
+1279,2024-04-29,South,West Bengal,Chennai,2058,Corporate,Furniture,Cabinet,3,49877,15,Offline,Neha,149631,22444.65,127186.35
+1280,2024-06-09,South,Maharashtra,Delhi,2032,Retail,Electronics,Router,4,27353,20,Online,Sneha,109412,21882.4,87529.6
+1281,2024-04-25,West,Maharashtra,Chennai,2317,Corporate,Furniture,Router,8,8683,10,Online,Amit,69464,6946.4,62517.6
+1282,2024-03-15,South,Delhi,Kolkata,2049,Retail,Electronics,Chair,7,21161,5,Offline,Amit,148127,7406.35,140720.65
+1283,2024-04-22,North,Tamil Nadu,Kolkata,2488,Corporate,Furniture,Monitor,5,41669,10,Online,Amit,208345,20834.5,187510.5
+1284,2024-04-13,North,Karnataka,Chennai,2018,Corporate,Electronics,Router,2,36995,20,Online,Priya,73990,14798.0,59192.0
+1285,2024-12-05,East,Tamil Nadu,Mumbai,2196,Retail,Furniture,Router,6,14203,15,Online,Neha,85218,12782.7,72435.3
+1286,2024-09-10,North,West Bengal,Mumbai,2449,Corporate,Electronics,Laptop,6,31315,20,Online,Arjun,187890,37578.0,150312.0
+1287,2024-08-14,West,Karnataka,Mumbai,2558,Retail,Furniture,Laptop,6,30065,15,Offline,Arjun,180390,27058.5,153331.5
+1288,2024-04-21,North,Delhi,Chennai,2451,Corporate,Furniture,Laptop,9,23442,15,Offline,Priya,210978,31646.7,179331.3
+1289,2024-04-08,North,Delhi,Mumbai,2288,Corporate,Office Supplies,Printer,8,43486,0,Online,Rohit,347888,0.0,347888.0
+1290,2024-06-01,West,Karnataka,Delhi,2140,Corporate,Office Supplies,Router,8,33661,5,Online,Priya,269288,13464.4,255823.6
+1291,2024-12-14,South,Maharashtra,Kolkata,2083,Retail,Electronics,Printer,1,49260,20,Offline,Neha,49260,9852.0,39408.0
+1292,2024-12-03,South,Karnataka,Delhi,2390,Corporate,Furniture,Monitor,5,42303,15,Online,Amit,211515,31727.25,179787.75
+1293,2024-07-12,West,West Bengal,Mumbai,2590,Retail,Electronics,Cabinet,7,10216,20,Online,Priya,71512,14302.4,57209.6
+1294,2024-11-05,East,Maharashtra,Delhi,2214,Corporate,Office Supplies,Chair,6,42063,20,Online,Amit,252378,50475.6,201902.4
+1295,2024-06-11,North,Delhi,Mumbai,2525,Retail,Electronics,Router,5,33849,15,Offline,Neha,169245,25386.75,143858.25
+1296,2024-07-26,West,Karnataka,Chennai,2214,Retail,Electronics,Chair,8,47598,10,Offline,Neha,380784,38078.4,342705.6
+1297,2024-06-17,North,Tamil Nadu,Delhi,2402,Retail,Office Supplies,Cabinet,3,43399,5,Online,Sneha,130197,6509.85,123687.15
+1298,2024-06-09,East,Tamil Nadu,Chennai,2127,Corporate,Furniture,Laptop,6,632,5,Online,Amit,3792,189.6,3602.4
+1299,2024-03-08,North,West Bengal,Chennai,2476,Retail,Electronics,Router,5,48252,0,Online,Arjun,241260,0.0,241260.0
+1300,2024-10-15,West,Tamil Nadu,Bengaluru,2403,Corporate,Office Supplies,Desk,8,3885,0,Online,Priya,31080,0.0,31080.0
+1301,2024-10-03,North,Karnataka,Mumbai,2028,Retail,Furniture,Printer,4,37038,0,Online,Neha,148152,0.0,148152.0
+1302,2024-10-30,South,Karnataka,Kolkata,2337,Retail,Office Supplies,Printer,8,35536,5,Online,Amit,284288,14214.4,270073.6
+1303,2024-05-14,East,Tamil Nadu,Mumbai,2360,Retail,Electronics,Router,2,34243,10,Offline,Rohit,68486,6848.6,61637.4
+1304,2024-07-13,East,Karnataka,Kolkata,2568,Retail,Furniture,Cabinet,9,40873,5,Offline,Sneha,367857,18392.85,349464.15
+1305,2024-05-07,East,West Bengal,Mumbai,2391,Corporate,Furniture,Laptop,9,7713,5,Online,Rohit,69417,3470.85,65946.15
+1306,2024-02-02,West,Maharashtra,Chennai,2217,Retail,Office Supplies,Printer,6,44723,5,Offline,Neha,268338,13416.9,254921.1
+1307,2024-06-24,East,West Bengal,Delhi,2573,Retail,Office Supplies,Laptop,4,26619,5,Online,Rohit,106476,5323.8,101152.2
+1308,2024-01-22,South,West Bengal,Delhi,2201,Corporate,Office Supplies,Monitor,4,3335,10,Online,Rohit,13340,1334.0,12006.0
+1309,2024-08-25,West,Karnataka,Bengaluru,2016,Retail,Furniture,Chair,6,3238,0,Offline,Sneha,19428,0.0,19428.0
+1310,2024-06-06,South,Maharashtra,Kolkata,2321,Retail,Furniture,Cabinet,5,42817,20,Offline,Sneha,214085,42817.0,171268.0
+1311,2024-02-07,North,Karnataka,Kolkata,2517,Retail,Electronics,Desk,6,4634,0,Online,Sneha,27804,0.0,27804.0
+1312,2024-08-17,North,Delhi,Kolkata,2569,Retail,Furniture,Chair,7,26392,0,Online,Sneha,184744,0.0,184744.0
+1313,2024-12-30,North,Karnataka,Chennai,2324,Corporate,Electronics,Chair,7,40101,20,Offline,Rohit,280707,56141.4,224565.6
+1314,2024-02-20,North,Karnataka,Kolkata,2411,Corporate,Office Supplies,Monitor,9,8853,5,Offline,Arjun,79677,3983.85,75693.15
+1315,2024-09-20,South,Karnataka,Delhi,2317,Retail,Office Supplies,Printer,8,16190,10,Online,Arjun,129520,12952.0,116568.0
+1316,2024-10-09,West,Maharashtra,Chennai,2081,Corporate,Furniture,Desk,6,2409,10,Online,Sneha,14454,1445.4,13008.6
+1317,2024-01-27,West,Karnataka,Mumbai,2473,Corporate,Office Supplies,Printer,6,26203,0,Online,Priya,157218,0.0,157218.0
+1318,2024-08-13,East,Maharashtra,Kolkata,2467,Retail,Office Supplies,Router,5,14996,20,Offline,Amit,74980,14996.0,59984.0
+1319,2024-10-03,South,Tamil Nadu,Kolkata,2424,Corporate,Furniture,Chair,1,12562,15,Online,Neha,12562,1884.3,10677.7
+1320,2024-10-12,North,Delhi,Mumbai,2203,Retail,Electronics,Router,9,10350,5,Offline,Priya,93150,4657.5,88492.5
+1321,2024-04-06,South,Maharashtra,Kolkata,2582,Corporate,Furniture,Laptop,9,28201,0,Online,Neha,253809,0.0,253809.0
+1322,2024-10-10,East,Tamil Nadu,Mumbai,2386,Corporate,Electronics,Chair,9,35231,10,Offline,Priya,317079,31707.9,285371.1
+1323,2024-11-12,East,Maharashtra,Chennai,2097,Corporate,Furniture,Printer,8,5653,20,Offline,Priya,45224,9044.8,36179.2
+1324,2024-10-30,South,Maharashtra,Delhi,2344,Retail,Furniture,Chair,3,10981,20,Offline,Arjun,32943,6588.6,26354.4
+1325,2024-05-26,South,Delhi,Mumbai,2207,Corporate,Office Supplies,Laptop,1,34234,0,Offline,Amit,34234,0.0,34234.0
+1326,2024-01-04,South,West Bengal,Bengaluru,2513,Retail,Furniture,Monitor,8,1389,15,Online,Priya,11112,1666.8,9445.2
+1327,2024-02-04,West,West Bengal,Mumbai,2585,Retail,Furniture,Router,7,19945,10,Offline,Sneha,139615,13961.5,125653.5
+1328,2024-07-10,North,Maharashtra,Kolkata,2165,Corporate,Electronics,Router,5,6961,0,Offline,Neha,34805,0.0,34805.0
+1329,2024-02-18,South,Karnataka,Chennai,2021,Retail,Office Supplies,Printer,7,39434,15,Offline,Arjun,276038,41405.7,234632.3
+1330,2024-01-17,South,Tamil Nadu,Chennai,2153,Corporate,Electronics,Chair,4,28705,20,Online,Neha,114820,22964.0,91856.0
+1331,2024-06-20,South,Karnataka,Mumbai,2438,Retail,Electronics,Printer,9,23851,5,Online,Sneha,214659,10732.95,203926.05
+1332,2024-08-07,East,Karnataka,Delhi,2294,Retail,Office Supplies,Monitor,2,16506,10,Online,Sneha,33012,3301.2,29710.8
+1333,2024-06-06,East,Maharashtra,Bengaluru,2218,Corporate,Office Supplies,Chair,9,44649,10,Online,Priya,401841,40184.1,361656.9
+1334,2024-02-15,West,Maharashtra,Chennai,2494,Corporate,Office Supplies,Chair,9,49612,15,Online,Sneha,446508,66976.2,379531.8
+1335,2024-01-06,North,Maharashtra,Kolkata,2229,Corporate,Furniture,Printer,5,11440,0,Online,Amit,57200,0.0,57200.0
+1336,2024-04-08,West,Maharashtra,Kolkata,2019,Corporate,Office Supplies,Printer,1,11758,20,Offline,Sneha,11758,2351.6,9406.4
+1337,2024-08-20,North,West Bengal,Delhi,2552,Retail,Office Supplies,Laptop,7,24985,15,Offline,Priya,174895,26234.25,148660.75
+1338,2024-02-06,East,Maharashtra,Chennai,2147,Retail,Office Supplies,Cabinet,4,24263,5,Offline,Neha,97052,4852.6,92199.4
+1339,2024-10-06,East,West Bengal,Mumbai,2107,Retail,Electronics,Cabinet,9,40548,5,Online,Sneha,364932,18246.6,346685.4
+1340,2024-12-14,East,West Bengal,Kolkata,2402,Corporate,Electronics,Monitor,6,1567,5,Offline,Arjun,9402,470.1,8931.9
+1341,2024-10-28,West,Maharashtra,Delhi,2595,Retail,Furniture,Cabinet,3,21107,15,Offline,Arjun,63321,9498.15,53822.85
+1342,2024-06-29,South,Delhi,Chennai,2482,Corporate,Electronics,Laptop,6,44383,20,Online,Arjun,266298,53259.6,213038.4
+1343,2024-04-04,South,Tamil Nadu,Chennai,2366,Retail,Furniture,Router,6,9518,10,Offline,Neha,57108,5710.8,51397.2
+1344,2024-04-08,East,Karnataka,Chennai,2413,Corporate,Electronics,Chair,5,49021,0,Online,Rohit,245105,0.0,245105.0
+1345,2024-07-06,South,West Bengal,Chennai,2308,Retail,Office Supplies,Printer,2,47446,10,Offline,Arjun,94892,9489.2,85402.8
+1346,2024-04-25,South,Tamil Nadu,Chennai,2133,Retail,Electronics,Chair,2,15687,20,Online,Arjun,31374,6274.8,25099.2
+1347,2024-07-09,West,Delhi,Kolkata,2282,Corporate,Furniture,Chair,7,37875,10,Online,Rohit,265125,26512.5,238612.5
+1348,2024-09-09,North,Karnataka,Delhi,2072,Retail,Electronics,Desk,2,4485,15,Online,Neha,8970,1345.5,7624.5
+1349,2024-06-09,East,Karnataka,Chennai,2480,Corporate,Office Supplies,Router,6,43552,5,Offline,Arjun,261312,13065.6,248246.4
+1350,2024-09-12,East,West Bengal,Bengaluru,2351,Retail,Furniture,Desk,5,20063,20,Offline,Priya,100315,20063.0,80252.0
+1351,2024-11-18,West,Maharashtra,Bengaluru,2559,Retail,Office Supplies,Cabinet,4,47822,20,Online,Neha,191288,38257.6,153030.4
+1352,2024-05-07,West,Delhi,Delhi,2325,Corporate,Office Supplies,Chair,7,37806,10,Online,Arjun,264642,26464.2,238177.8
+1353,2024-01-18,South,West Bengal,Mumbai,2442,Corporate,Furniture,Printer,8,19108,15,Offline,Arjun,152864,22929.6,129934.4
+1354,2024-10-07,East,Delhi,Mumbai,2099,Retail,Office Supplies,Chair,4,39639,10,Offline,Rohit,158556,15855.6,142700.4
+1355,2024-08-10,North,Maharashtra,Mumbai,2058,Retail,Office Supplies,Router,1,2226,10,Online,Priya,2226,222.6,2003.4
+1356,2024-02-23,West,Maharashtra,Bengaluru,2507,Retail,Electronics,Desk,1,27082,20,Offline,Neha,27082,5416.4,21665.6
+1357,2024-02-27,North,West Bengal,Mumbai,2257,Retail,Office Supplies,Printer,1,6291,10,Offline,Sneha,6291,629.1,5661.9
+1358,2024-11-18,North,Maharashtra,Kolkata,2412,Retail,Office Supplies,Chair,1,8958,5,Offline,Amit,8958,447.9,8510.1
+1359,2024-12-25,East,Tamil Nadu,Chennai,2451,Retail,Office Supplies,Monitor,5,17721,10,Online,Priya,88605,8860.5,79744.5
+1360,2024-06-22,East,Karnataka,Bengaluru,2064,Corporate,Office Supplies,Router,4,49006,5,Online,Sneha,196024,9801.2,186222.8
+1361,2024-10-06,West,West Bengal,Delhi,2594,Corporate,Furniture,Router,9,21468,20,Offline,Priya,193212,38642.4,154569.6
+1362,2024-04-23,East,Delhi,Delhi,2153,Corporate,Electronics,Monitor,3,17570,15,Online,Sneha,52710,7906.5,44803.5
+1363,2024-10-14,East,Tamil Nadu,Chennai,2265,Retail,Office Supplies,Chair,7,28437,5,Offline,Sneha,199059,9952.95,189106.05
+1364,2024-12-07,East,West Bengal,Bengaluru,2078,Retail,Office Supplies,Router,8,42331,15,Offline,Priya,338648,50797.2,287850.8
+1365,2024-05-30,North,Maharashtra,Mumbai,2314,Retail,Furniture,Printer,6,43433,15,Online,Rohit,260598,39089.7,221508.3
+1366,2024-05-06,West,Maharashtra,Mumbai,2559,Corporate,Office Supplies,Chair,1,47807,5,Online,Priya,47807,2390.35,45416.65
+1367,2024-06-03,South,Maharashtra,Kolkata,2247,Corporate,Furniture,Chair,8,48840,20,Online,Priya,390720,78144.0,312576.0
+1368,2024-09-29,North,Maharashtra,Kolkata,2413,Retail,Electronics,Desk,3,37915,0,Offline,Sneha,113745,0.0,113745.0
+1369,2024-04-13,East,Delhi,Mumbai,2024,Retail,Electronics,Router,8,43270,15,Offline,Amit,346160,51924.0,294236.0
+1370,2024-10-25,North,Tamil Nadu,Delhi,2283,Corporate,Office Supplies,Router,4,21302,15,Online,Sneha,85208,12781.2,72426.8
+1371,2024-09-02,East,Karnataka,Delhi,2448,Corporate,Office Supplies,Monitor,8,44101,20,Online,Arjun,352808,70561.6,282246.4
+1372,2024-06-24,East,Delhi,Kolkata,2300,Corporate,Office Supplies,Desk,1,10920,20,Online,Priya,10920,2184.0,8736.0
+1373,2024-02-08,North,Delhi,Chennai,2067,Retail,Furniture,Cabinet,3,7142,10,Offline,Neha,21426,2142.6,19283.4
+1374,2024-06-18,West,Karnataka,Mumbai,2006,Retail,Office Supplies,Desk,6,20275,20,Offline,Priya,121650,24330.0,97320.0
+1375,2024-09-03,East,Karnataka,Kolkata,2136,Retail,Office Supplies,Router,9,29254,15,Offline,Rohit,263286,39492.9,223793.1
+1376,2024-01-26,West,Maharashtra,Kolkata,2163,Corporate,Electronics,Chair,2,43810,5,Online,Neha,87620,4381.0,83239.0
+1377,2024-12-20,South,Delhi,Mumbai,2082,Corporate,Office Supplies,Desk,1,4857,0,Online,Sneha,4857,0.0,4857.0
+1378,2024-11-01,East,West Bengal,Mumbai,2419,Retail,Electronics,Monitor,3,21763,10,Offline,Rohit,65289,6528.9,58760.1
+1379,2024-01-13,West,Karnataka,Delhi,2072,Retail,Office Supplies,Desk,4,48867,5,Online,Priya,195468,9773.4,185694.6
+1380,2024-11-11,West,Karnataka,Chennai,2236,Corporate,Electronics,Monitor,5,13701,0,Online,Sneha,68505,0.0,68505.0
+1381,2024-11-08,South,Tamil Nadu,Chennai,2045,Retail,Office Supplies,Cabinet,3,3239,0,Online,Sneha,9717,0.0,9717.0
+1382,2024-02-05,West,West Bengal,Mumbai,2261,Corporate,Electronics,Desk,2,13731,0,Online,Arjun,27462,0.0,27462.0
+1383,2024-06-21,West,West Bengal,Bengaluru,2175,Corporate,Furniture,Monitor,2,42778,5,Offline,Arjun,85556,4277.8,81278.2
+1384,2024-01-20,South,Karnataka,Kolkata,2165,Retail,Electronics,Desk,7,42995,10,Online,Amit,300965,30096.5,270868.5
+1385,2024-11-16,East,Maharashtra,Kolkata,2369,Corporate,Electronics,Cabinet,9,21668,10,Offline,Arjun,195012,19501.2,175510.8
+1386,2024-09-20,West,Tamil Nadu,Mumbai,2053,Retail,Electronics,Desk,2,33124,0,Offline,Neha,66248,0.0,66248.0
+1387,2024-05-21,West,West Bengal,Bengaluru,2418,Corporate,Office Supplies,Printer,7,11135,5,Online,Sneha,77945,3897.25,74047.75
+1388,2024-05-22,West,Karnataka,Delhi,2506,Corporate,Office Supplies,Monitor,7,10464,0,Offline,Arjun,73248,0.0,73248.0
+1389,2024-04-01,North,West Bengal,Mumbai,2340,Retail,Office Supplies,Cabinet,7,28285,20,Offline,Amit,197995,39599.0,158396.0
+1390,2024-12-19,South,Tamil Nadu,Mumbai,2126,Corporate,Furniture,Monitor,3,30010,10,Online,Priya,90030,9003.0,81027.0
+1391,2024-11-17,North,Tamil Nadu,Kolkata,2408,Retail,Furniture,Monitor,7,17761,15,Offline,Neha,124327,18649.05,105677.95
+1392,2024-10-14,South,Delhi,Mumbai,2366,Retail,Electronics,Laptop,1,19754,0,Offline,Arjun,19754,0.0,19754.0
+1393,2024-08-02,East,Karnataka,Mumbai,2270,Corporate,Furniture,Cabinet,1,11892,20,Offline,Sneha,11892,2378.4,9513.6
+1394,2024-12-07,East,Tamil Nadu,Mumbai,2378,Retail,Electronics,Desk,5,12836,10,Offline,Priya,64180,6418.0,57762.0
+1395,2024-02-20,West,Delhi,Kolkata,2072,Retail,Electronics,Monitor,2,12439,5,Offline,Sneha,24878,1243.9,23634.1
+1396,2024-06-01,South,Delhi,Delhi,2247,Retail,Electronics,Router,9,27912,10,Offline,Priya,251208,25120.8,226087.2
+1397,2024-07-04,East,West Bengal,Delhi,2042,Retail,Furniture,Laptop,7,17176,5,Offline,Neha,120232,6011.6,114220.4
+1398,2024-03-03,South,West Bengal,Mumbai,2376,Retail,Office Supplies,Printer,4,10343,5,Offline,Sneha,41372,2068.6,39303.4
+1399,2024-07-08,East,Delhi,Kolkata,2040,Retail,Furniture,Monitor,4,46091,0,Online,Arjun,184364,0.0,184364.0
+1400,2024-05-04,North,West Bengal,Delhi,2169,Corporate,Electronics,Monitor,2,25612,0,Online,Arjun,51224,0.0,51224.0
+1401,2024-05-29,East,Tamil Nadu,Delhi,2211,Retail,Electronics,Laptop,5,31098,10,Online,Amit,155490,15549.0,139941.0
+1402,2024-11-09,North,Maharashtra,Delhi,2492,Corporate,Furniture,Desk,4,35954,20,Offline,Priya,143816,28763.2,115052.8
+1403,2024-02-27,East,Tamil Nadu,Kolkata,2038,Corporate,Electronics,Router,1,33501,10,Offline,Amit,33501,3350.1,30150.9
+1404,2024-12-07,West,Delhi,Kolkata,2368,Retail,Electronics,Printer,8,27728,15,Offline,Rohit,221824,33273.6,188550.4
+1405,2024-10-31,North,Delhi,Mumbai,2150,Corporate,Furniture,Monitor,3,14929,5,Online,Arjun,44787,2239.35,42547.65
+1406,2024-06-28,East,Tamil Nadu,Chennai,2110,Corporate,Furniture,Desk,6,19258,5,Online,Priya,115548,5777.4,109770.6
+1407,2024-06-18,West,West Bengal,Delhi,2479,Retail,Furniture,Cabinet,4,2772,0,Online,Neha,11088,0.0,11088.0
+1408,2024-11-21,North,West Bengal,Chennai,2435,Retail,Electronics,Router,9,17850,20,Offline,Amit,160650,32130.0,128520.0
+1409,2024-09-27,West,Delhi,Kolkata,2046,Retail,Electronics,Cabinet,7,23038,0,Online,Neha,161266,0.0,161266.0
+1410,2024-02-23,South,Karnataka,Kolkata,2574,Corporate,Office Supplies,Router,9,3900,15,Online,Neha,35100,5265.0,29835.0
+1411,2024-04-10,South,West Bengal,Kolkata,2365,Corporate,Office Supplies,Printer,3,15871,10,Offline,Neha,47613,4761.3,42851.7
+1412,2024-09-20,North,Tamil Nadu,Chennai,2068,Retail,Furniture,Chair,1,37810,10,Online,Amit,37810,3781.0,34029.0
+1413,2024-02-22,East,West Bengal,Kolkata,2298,Retail,Office Supplies,Router,5,36791,20,Offline,Rohit,183955,36791.0,147164.0
+1414,2024-02-29,North,Tamil Nadu,Mumbai,2295,Corporate,Electronics,Chair,3,18647,0,Online,Amit,55941,0.0,55941.0
+1415,2024-04-17,West,Delhi,Kolkata,2202,Corporate,Office Supplies,Cabinet,6,3791,0,Offline,Sneha,22746,0.0,22746.0
+1416,2024-01-05,East,West Bengal,Bengaluru,2060,Corporate,Electronics,Router,8,35756,15,Offline,Arjun,286048,42907.2,243140.8
+1417,2024-04-12,South,Tamil Nadu,Chennai,2313,Corporate,Furniture,Printer,4,11392,10,Offline,Amit,45568,4556.8,41011.2
+1418,2024-07-14,East,Delhi,Bengaluru,2160,Retail,Furniture,Laptop,5,34826,0,Offline,Amit,174130,0.0,174130.0
+1419,2024-09-18,South,Karnataka,Kolkata,2330,Corporate,Electronics,Printer,5,37958,20,Offline,Rohit,189790,37958.0,151832.0
+1420,2024-12-30,East,Tamil Nadu,Mumbai,2527,Corporate,Office Supplies,Printer,4,39389,10,Online,Sneha,157556,15755.6,141800.4
+1421,2024-12-15,East,Karnataka,Delhi,2337,Corporate,Furniture,Laptop,4,45466,15,Offline,Amit,181864,27279.6,154584.4
+1422,2024-02-16,East,Karnataka,Kolkata,2303,Corporate,Furniture,Laptop,4,37707,20,Offline,Arjun,150828,30165.6,120662.4
+1423,2024-12-20,West,Maharashtra,Mumbai,2502,Retail,Office Supplies,Desk,4,40788,5,Offline,Arjun,163152,8157.6,154994.4
+1424,2024-11-06,West,West Bengal,Chennai,2337,Retail,Office Supplies,Router,4,26495,15,Offline,Amit,105980,15897.0,90083.0
+1425,2024-11-03,North,Tamil Nadu,Bengaluru,2549,Corporate,Electronics,Cabinet,5,5909,20,Online,Neha,29545,5909.0,23636.0
+1426,2024-05-23,North,Karnataka,Bengaluru,2274,Corporate,Office Supplies,Desk,2,42938,0,Offline,Neha,85876,0.0,85876.0
+1427,2024-09-25,South,Maharashtra,Bengaluru,2163,Retail,Office Supplies,Laptop,2,45374,5,Online,Sneha,90748,4537.4,86210.6
+1428,2024-05-03,West,Delhi,Chennai,2442,Retail,Office Supplies,Chair,9,45202,15,Offline,Arjun,406818,61022.7,345795.3
+1429,2024-04-15,South,Tamil Nadu,Mumbai,2318,Corporate,Electronics,Cabinet,2,30323,0,Offline,Neha,60646,0.0,60646.0
+1430,2024-06-06,North,Karnataka,Chennai,2588,Corporate,Electronics,Chair,6,8369,5,Online,Arjun,50214,2510.7,47703.3
+1431,2024-05-26,South,West Bengal,Bengaluru,2503,Retail,Furniture,Printer,2,36224,10,Online,Sneha,72448,7244.8,65203.2
+1432,2024-05-24,North,Maharashtra,Kolkata,2386,Retail,Electronics,Monitor,5,22901,0,Online,Sneha,114505,0.0,114505.0
+1433,2024-04-29,West,Karnataka,Delhi,2493,Retail,Furniture,Printer,4,26458,20,Offline,Neha,105832,21166.4,84665.6
+1434,2024-11-14,East,West Bengal,Chennai,2489,Retail,Office Supplies,Printer,7,11266,15,Online,Amit,78862,11829.3,67032.7
+1435,2024-10-01,West,Karnataka,Chennai,2072,Retail,Furniture,Monitor,7,20268,5,Offline,Priya,141876,7093.8,134782.2
+1436,2024-04-01,South,Tamil Nadu,Mumbai,2508,Retail,Furniture,Router,6,31294,0,Online,Rohit,187764,0.0,187764.0
+1437,2024-02-27,South,Tamil Nadu,Mumbai,2389,Corporate,Office Supplies,Laptop,5,26645,10,Online,Priya,133225,13322.5,119902.5
+1438,2024-12-11,West,Tamil Nadu,Chennai,2294,Retail,Furniture,Chair,1,10586,15,Offline,Priya,10586,1587.9,8998.1
+1439,2024-08-16,West,Maharashtra,Bengaluru,2368,Retail,Electronics,Printer,3,43703,15,Online,Arjun,131109,19666.35,111442.65
+1440,2024-04-26,North,Tamil Nadu,Delhi,2548,Retail,Electronics,Monitor,9,26942,0,Online,Sneha,242478,0.0,242478.0
+1441,2024-11-13,South,West Bengal,Mumbai,2567,Retail,Electronics,Desk,1,16912,10,Offline,Arjun,16912,1691.2,15220.8
+1442,2024-10-05,South,Karnataka,Bengaluru,2186,Corporate,Electronics,Printer,5,26096,5,Offline,Neha,130480,6524.0,123956.0
+1443,2024-05-06,West,Delhi,Kolkata,2444,Corporate,Furniture,Chair,2,10755,0,Offline,Rohit,21510,0.0,21510.0
+1444,2024-05-08,East,West Bengal,Mumbai,2569,Retail,Furniture,Laptop,4,42906,5,Online,Neha,171624,8581.2,163042.8
+1445,2024-02-27,South,West Bengal,Bengaluru,2362,Corporate,Office Supplies,Printer,1,41024,15,Online,Amit,41024,6153.6,34870.4
+1446,2024-05-01,East,Tamil Nadu,Bengaluru,2122,Corporate,Furniture,Printer,3,23832,5,Online,Rohit,71496,3574.8,67921.2
+1447,2024-01-01,West,Maharashtra,Delhi,2187,Corporate,Furniture,Router,7,45124,10,Online,Arjun,315868,31586.8,284281.2
+1448,2024-08-26,West,Karnataka,Delhi,2419,Corporate,Furniture,Monitor,3,16264,20,Online,Arjun,48792,9758.4,39033.6
+1449,2024-10-16,North,Maharashtra,Kolkata,2251,Corporate,Office Supplies,Desk,4,28063,10,Offline,Neha,112252,11225.2,101026.8
+1450,2024-04-05,South,Karnataka,Bengaluru,2548,Corporate,Electronics,Desk,2,22639,5,Online,Arjun,45278,2263.9,43014.1
+1451,2024-05-05,East,Karnataka,Bengaluru,2334,Retail,Furniture,Cabinet,3,36870,0,Offline,Arjun,110610,0.0,110610.0
+1452,2024-04-27,North,Maharashtra,Delhi,2091,Retail,Office Supplies,Laptop,9,5562,15,Online,Priya,50058,7508.7,42549.3
+1453,2024-02-17,South,West Bengal,Mumbai,2529,Retail,Office Supplies,Cabinet,3,45145,20,Offline,Amit,135435,27087.0,108348.0
+1454,2024-03-29,North,Karnataka,Mumbai,2062,Retail,Office Supplies,Chair,5,7744,0,Online,Priya,38720,0.0,38720.0
+1455,2024-08-24,West,Maharashtra,Chennai,2511,Retail,Electronics,Laptop,2,6872,0,Online,Arjun,13744,0.0,13744.0
+1456,2024-09-28,South,Karnataka,Delhi,2138,Corporate,Furniture,Printer,4,40373,10,Offline,Sneha,161492,16149.2,145342.8
+1457,2024-07-07,North,Delhi,Chennai,2184,Retail,Office Supplies,Printer,7,20465,5,Online,Priya,143255,7162.75,136092.25
+1458,2024-07-10,North,West Bengal,Delhi,2204,Retail,Electronics,Desk,7,45497,10,Offline,Arjun,318479,31847.9,286631.1
+1459,2024-03-09,East,Tamil Nadu,Kolkata,2213,Corporate,Office Supplies,Chair,3,17456,5,Online,Arjun,52368,2618.4,49749.6
+1460,2024-10-04,North,Karnataka,Bengaluru,2255,Corporate,Office Supplies,Monitor,5,40973,10,Online,Amit,204865,20486.5,184378.5
+1461,2024-12-14,South,Delhi,Kolkata,2134,Retail,Office Supplies,Chair,1,14394,0,Offline,Neha,14394,0.0,14394.0
+1462,2024-09-03,South,Tamil Nadu,Delhi,2572,Corporate,Office Supplies,Printer,1,45548,15,Online,Rohit,45548,6832.2,38715.8
+1463,2024-03-16,East,Tamil Nadu,Bengaluru,2087,Corporate,Office Supplies,Monitor,5,33882,5,Offline,Priya,169410,8470.5,160939.5
+1464,2024-06-02,South,Karnataka,Mumbai,2206,Corporate,Electronics,Chair,9,4550,20,Online,Priya,40950,8190.0,32760.0
+1465,2024-05-23,West,Maharashtra,Mumbai,2128,Corporate,Furniture,Chair,1,17209,20,Online,Priya,17209,3441.8,13767.2
+1466,2024-03-26,South,Karnataka,Chennai,2002,Retail,Furniture,Monitor,1,16222,0,Online,Arjun,16222,0.0,16222.0
+1467,2024-07-03,South,Delhi,Delhi,2120,Corporate,Furniture,Printer,4,15710,10,Online,Amit,62840,6284.0,56556.0
+1468,2024-10-11,North,Tamil Nadu,Delhi,2384,Retail,Furniture,Chair,4,37045,10,Online,Arjun,148180,14818.0,133362.0
+1469,2024-08-07,North,Karnataka,Mumbai,2037,Retail,Electronics,Monitor,2,39174,0,Online,Arjun,78348,0.0,78348.0
+1470,2024-03-09,South,Maharashtra,Kolkata,2340,Corporate,Electronics,Router,9,34989,20,Online,Neha,314901,62980.2,251920.8
+1471,2024-02-16,East,Karnataka,Bengaluru,2020,Corporate,Electronics,Router,9,18233,20,Offline,Sneha,164097,32819.4,131277.6
+1472,2024-04-03,North,West Bengal,Kolkata,2241,Corporate,Office Supplies,Printer,2,20580,10,Online,Amit,41160,4116.0,37044.0
+1473,2024-08-25,East,Maharashtra,Kolkata,2454,Retail,Office Supplies,Monitor,9,37164,5,Online,Priya,334476,16723.8,317752.2
+1474,2024-07-22,South,Delhi,Mumbai,2302,Corporate,Office Supplies,Router,6,40209,15,Online,Rohit,241254,36188.1,205065.9
+1475,2024-08-05,South,Tamil Nadu,Mumbai,2595,Corporate,Furniture,Monitor,8,46732,5,Offline,Priya,373856,18692.8,355163.2
+1476,2024-12-06,West,Karnataka,Mumbai,2594,Corporate,Office Supplies,Chair,4,38514,20,Offline,Arjun,154056,30811.2,123244.8
+1477,2024-02-08,North,Maharashtra,Chennai,2068,Corporate,Furniture,Printer,2,41652,5,Online,Amit,83304,4165.2,79138.8
+1478,2024-04-09,South,West Bengal,Kolkata,2128,Corporate,Office Supplies,Router,2,27750,15,Online,Amit,55500,8325.0,47175.0
+1479,2024-10-15,West,Maharashtra,Delhi,2195,Retail,Furniture,Cabinet,9,20729,5,Online,Amit,186561,9328.05,177232.95
+1480,2024-09-10,North,West Bengal,Bengaluru,2139,Corporate,Office Supplies,Chair,1,48637,5,Offline,Sneha,48637,2431.85,46205.15
+1481,2024-08-09,South,Delhi,Chennai,2443,Corporate,Office Supplies,Cabinet,7,16975,5,Online,Priya,118825,5941.25,112883.75
+1482,2024-12-22,South,Tamil Nadu,Delhi,2282,Corporate,Electronics,Cabinet,3,46912,5,Offline,Sneha,140736,7036.8,133699.2
+1483,2024-01-23,North,Delhi,Kolkata,2311,Retail,Office Supplies,Laptop,3,44376,0,Online,Neha,133128,0.0,133128.0
+1484,2024-09-06,North,Karnataka,Mumbai,2534,Corporate,Office Supplies,Laptop,2,29511,20,Offline,Rohit,59022,11804.4,47217.6
+1485,2024-01-10,North,Maharashtra,Kolkata,2276,Retail,Electronics,Printer,6,8628,15,Offline,Neha,51768,7765.2,44002.8
+1486,2024-09-02,South,West Bengal,Bengaluru,2060,Retail,Furniture,Router,2,32950,20,Online,Arjun,65900,13180.0,52720.0
+1487,2024-11-20,South,West Bengal,Chennai,2318,Corporate,Electronics,Router,4,19397,0,Online,Sneha,77588,0.0,77588.0
+1488,2024-04-09,West,Maharashtra,Chennai,2051,Corporate,Electronics,Router,9,8668,0,Online,Sneha,78012,0.0,78012.0
+1489,2024-10-16,East,Maharashtra,Bengaluru,2152,Corporate,Furniture,Monitor,9,7361,0,Online,Neha,66249,0.0,66249.0
+1490,2024-06-28,North,Karnataka,Delhi,2310,Retail,Office Supplies,Chair,6,42258,0,Online,Arjun,253548,0.0,253548.0
+1491,2024-08-10,South,Delhi,Delhi,2543,Retail,Furniture,Router,4,14250,5,Online,Amit,57000,2850.0,54150.0
+1492,2024-09-06,South,West Bengal,Chennai,2566,Retail,Office Supplies,Chair,7,17488,20,Online,Arjun,122416,24483.2,97932.8
+1493,2024-05-26,North,Karnataka,Chennai,2388,Retail,Office Supplies,Printer,1,3479,10,Offline,Priya,3479,347.9,3131.1
+1494,2024-04-05,East,Delhi,Mumbai,2547,Retail,Furniture,Cabinet,4,24024,15,Online,Neha,96096,14414.4,81681.6
+1495,2024-09-13,North,Karnataka,Delhi,2176,Retail,Electronics,Router,5,7565,0,Online,Arjun,37825,0.0,37825.0
+1496,2024-11-20,East,West Bengal,Bengaluru,2361,Corporate,Furniture,Printer,8,38184,20,Offline,Amit,305472,61094.4,244377.6
+1497,2024-01-04,South,Maharashtra,Delhi,2313,Corporate,Office Supplies,Router,2,23684,0,Online,Arjun,47368,0.0,47368.0
+1498,2024-01-16,East,Maharashtra,Mumbai,2096,Retail,Furniture,Laptop,5,33865,0,Online,Sneha,169325,0.0,169325.0
+1499,2024-10-06,West,Delhi,Chennai,2212,Corporate,Furniture,Desk,6,24204,0,Online,Rohit,145224,0.0,145224.0
+1500,2024-12-01,South,Tamil Nadu,Chennai,2136,Corporate,Office Supplies,Printer,5,6122,0,Online,Sneha,30610,0.0,30610.0
+1501,2024-09-03,West,Delhi,Mumbai,2005,Retail,Electronics,Router,9,18761,0,Offline,Rohit,168849,0.0,168849.0
+1502,2024-09-14,North,Tamil Nadu,Bengaluru,2108,Retail,Furniture,Desk,1,45432,15,Offline,Arjun,45432,6814.8,38617.2
+1503,2024-06-08,North,Karnataka,Chennai,2546,Corporate,Office Supplies,Printer,3,28919,20,Online,Priya,86757,17351.4,69405.6
+1504,2024-12-05,North,Karnataka,Kolkata,2038,Retail,Office Supplies,Monitor,2,34967,0,Online,Arjun,69934,0.0,69934.0
+1505,2024-05-31,East,West Bengal,Chennai,2424,Retail,Furniture,Router,3,26105,0,Offline,Amit,78315,0.0,78315.0
+1506,2024-06-26,South,Tamil Nadu,Kolkata,2260,Corporate,Electronics,Monitor,9,29671,0,Online,Arjun,267039,0.0,267039.0
+1507,2024-06-11,North,West Bengal,Mumbai,2425,Retail,Furniture,Laptop,9,22664,0,Offline,Rohit,203976,0.0,203976.0
+1508,2024-02-02,North,Maharashtra,Mumbai,2086,Corporate,Electronics,Router,2,46697,5,Offline,Sneha,93394,4669.7,88724.3
+1509,2024-06-27,South,Tamil Nadu,Chennai,2464,Corporate,Electronics,Cabinet,3,14296,5,Offline,Priya,42888,2144.4,40743.6
+1510,2024-04-10,North,Delhi,Delhi,2075,Corporate,Electronics,Laptop,4,37354,10,Online,Arjun,149416,14941.6,134474.4
+1511,2024-09-24,West,Maharashtra,Kolkata,2470,Corporate,Electronics,Desk,9,31820,0,Online,Arjun,286380,0.0,286380.0
+1512,2024-11-18,South,Maharashtra,Bengaluru,2413,Corporate,Furniture,Printer,3,1165,10,Online,Sneha,3495,349.5,3145.5
+1513,2024-03-05,South,Delhi,Chennai,2456,Retail,Office Supplies,Chair,7,33194,15,Offline,Priya,232358,34853.7,197504.3
+1514,2024-06-16,South,Maharashtra,Bengaluru,2284,Retail,Office Supplies,Laptop,3,24730,10,Online,Neha,74190,7419.0,66771.0
+1515,2024-11-25,West,Tamil Nadu,Chennai,2238,Retail,Office Supplies,Chair,7,23495,20,Online,Arjun,164465,32893.0,131572.0
+1516,2024-02-12,South,West Bengal,Delhi,2598,Retail,Office Supplies,Chair,7,27284,5,Offline,Arjun,190988,9549.4,181438.6
+1517,2024-02-13,West,Maharashtra,Delhi,2557,Corporate,Office Supplies,Printer,9,15105,5,Online,Neha,135945,6797.25,129147.75
+1518,2024-10-11,South,Tamil Nadu,Delhi,2371,Corporate,Office Supplies,Desk,2,17963,0,Online,Rohit,35926,0.0,35926.0
+1519,2024-01-12,East,Karnataka,Delhi,2494,Retail,Furniture,Printer,6,8919,0,Online,Rohit,53514,0.0,53514.0
+1520,2024-04-04,North,Tamil Nadu,Mumbai,2044,Corporate,Electronics,Router,9,48452,15,Offline,Amit,436068,65410.2,370657.8
+1521,2024-10-28,East,West Bengal,Mumbai,2400,Retail,Office Supplies,Laptop,2,34337,15,Online,Sneha,68674,10301.1,58372.9
+1522,2024-09-09,North,Tamil Nadu,Kolkata,2246,Retail,Furniture,Chair,2,5763,20,Offline,Priya,11526,2305.2,9220.8
+1523,2024-08-29,West,Delhi,Bengaluru,2596,Retail,Office Supplies,Printer,5,49377,0,Offline,Arjun,246885,0.0,246885.0
+1524,2024-02-04,East,West Bengal,Chennai,2449,Corporate,Office Supplies,Printer,8,41219,0,Offline,Arjun,329752,0.0,329752.0
+1525,2024-08-02,South,Karnataka,Chennai,2484,Corporate,Electronics,Printer,9,46187,15,Online,Amit,415683,62352.45,353330.55
+1526,2024-12-02,North,Delhi,Mumbai,2017,Corporate,Electronics,Laptop,2,34631,15,Online,Arjun,69262,10389.3,58872.7
+1527,2024-03-30,North,Tamil Nadu,Chennai,2288,Corporate,Electronics,Desk,5,37776,15,Online,Sneha,188880,28332.0,160548.0
+1528,2024-09-20,East,West Bengal,Mumbai,2413,Retail,Office Supplies,Cabinet,7,35023,5,Offline,Amit,245161,12258.05,232902.95
+1529,2024-04-02,West,Karnataka,Kolkata,2234,Corporate,Office Supplies,Printer,6,1019,10,Offline,Sneha,6114,611.4,5502.6
+1530,2024-03-30,East,Delhi,Bengaluru,2415,Corporate,Office Supplies,Laptop,6,31606,10,Online,Amit,189636,18963.6,170672.4
+1531,2024-04-24,West,Karnataka,Kolkata,2498,Corporate,Electronics,Chair,7,45004,0,Offline,Arjun,315028,0.0,315028.0
+1532,2024-04-14,West,Tamil Nadu,Delhi,2114,Retail,Furniture,Router,3,11014,5,Online,Amit,33042,1652.1,31389.9
+1533,2024-07-14,North,Karnataka,Delhi,2233,Retail,Office Supplies,Cabinet,3,47956,15,Online,Rohit,143868,21580.2,122287.8
+1534,2024-11-09,East,Maharashtra,Delhi,2539,Corporate,Office Supplies,Monitor,9,7733,0,Online,Priya,69597,0.0,69597.0
+1535,2024-04-23,East,Delhi,Kolkata,2010,Corporate,Office Supplies,Cabinet,8,1602,5,Online,Arjun,12816,640.8,12175.2
+1536,2024-03-15,West,Karnataka,Chennai,2205,Corporate,Furniture,Cabinet,5,1097,20,Online,Neha,5485,1097.0,4388.0
+1537,2024-08-04,East,Tamil Nadu,Bengaluru,2246,Corporate,Office Supplies,Laptop,6,47215,5,Online,Priya,283290,14164.5,269125.5
+1538,2024-10-03,South,Tamil Nadu,Delhi,2558,Retail,Furniture,Monitor,1,20157,0,Online,Arjun,20157,0.0,20157.0
+1539,2024-09-05,South,Karnataka,Delhi,2126,Corporate,Office Supplies,Printer,1,45509,10,Offline,Priya,45509,4550.9,40958.1
+1540,2024-06-12,East,Tamil Nadu,Delhi,2146,Corporate,Furniture,Printer,4,39049,15,Online,Rohit,156196,23429.4,132766.6
+1541,2024-12-22,East,West Bengal,Bengaluru,2117,Corporate,Office Supplies,Cabinet,2,44065,20,Offline,Priya,88130,17626.0,70504.0
+1542,2024-07-10,West,West Bengal,Delhi,2381,Retail,Electronics,Laptop,7,6756,5,Offline,Amit,47292,2364.6,44927.4
+1543,2024-08-14,South,West Bengal,Bengaluru,2411,Retail,Electronics,Monitor,2,43648,0,Online,Priya,87296,0.0,87296.0
+1544,2024-06-25,South,Maharashtra,Delhi,2583,Corporate,Electronics,Printer,2,29901,0,Offline,Arjun,59802,0.0,59802.0
+1545,2024-04-08,North,Karnataka,Kolkata,2362,Corporate,Electronics,Chair,5,42048,15,Offline,Neha,210240,31536.0,178704.0
+1546,2024-02-05,West,Maharashtra,Kolkata,2508,Corporate,Office Supplies,Desk,4,7054,0,Offline,Neha,28216,0.0,28216.0
+1547,2024-04-05,North,Tamil Nadu,Bengaluru,2136,Corporate,Electronics,Desk,8,13164,0,Online,Sneha,105312,0.0,105312.0
+1548,2024-05-31,South,Maharashtra,Kolkata,2174,Corporate,Furniture,Printer,4,42867,15,Online,Priya,171468,25720.2,145747.8
+1549,2024-05-30,West,Tamil Nadu,Bengaluru,2288,Retail,Electronics,Monitor,6,48779,20,Online,Neha,292674,58534.8,234139.2
+1550,2024-07-08,East,Tamil Nadu,Kolkata,2480,Retail,Electronics,Router,5,24886,10,Online,Priya,124430,12443.0,111987.0
+1551,2024-08-11,West,Delhi,Kolkata,2018,Retail,Electronics,Printer,2,5346,10,Online,Neha,10692,1069.2,9622.8
+1552,2024-02-06,East,West Bengal,Bengaluru,2194,Corporate,Office Supplies,Router,8,26705,5,Offline,Priya,213640,10682.0,202958.0
+1553,2024-09-24,East,Tamil Nadu,Chennai,2329,Retail,Electronics,Router,2,26070,20,Offline,Arjun,52140,10428.0,41712.0
+1554,2024-07-01,West,Delhi,Kolkata,2174,Retail,Furniture,Monitor,9,30755,5,Online,Priya,276795,13839.75,262955.25
+1555,2024-01-13,East,West Bengal,Delhi,2448,Retail,Electronics,Router,9,21682,10,Offline,Arjun,195138,19513.8,175624.2
+1556,2024-10-05,North,Tamil Nadu,Chennai,2353,Corporate,Electronics,Chair,3,39873,15,Offline,Arjun,119619,17942.85,101676.15
+1557,2024-08-04,South,Tamil Nadu,Bengaluru,2498,Corporate,Electronics,Monitor,4,43519,0,Offline,Sneha,174076,0.0,174076.0
+1558,2024-12-20,East,Maharashtra,Chennai,2140,Retail,Furniture,Printer,8,16543,10,Offline,Neha,132344,13234.4,119109.6
+1559,2024-12-26,North,Maharashtra,Mumbai,2092,Corporate,Electronics,Cabinet,9,46032,20,Online,Amit,414288,82857.6,331430.4
+1560,2024-10-12,East,West Bengal,Mumbai,2238,Retail,Furniture,Chair,3,36254,10,Online,Arjun,108762,10876.2,97885.8
+1561,2024-09-29,South,Tamil Nadu,Kolkata,2204,Retail,Furniture,Laptop,5,900,20,Online,Neha,4500,900.0,3600.0
+1562,2024-03-02,North,Karnataka,Kolkata,2559,Retail,Electronics,Desk,8,19739,20,Offline,Rohit,157912,31582.4,126329.6
+1563,2024-03-24,South,Maharashtra,Delhi,2432,Retail,Furniture,Printer,3,10916,20,Offline,Priya,32748,6549.6,26198.4
+1564,2024-08-04,South,West Bengal,Chennai,2244,Corporate,Office Supplies,Printer,7,3912,5,Online,Rohit,27384,1369.2,26014.8
+1565,2024-12-07,North,Tamil Nadu,Mumbai,2316,Corporate,Electronics,Printer,8,16940,15,Online,Priya,135520,20328.0,115192.0
+1566,2024-07-05,North,Tamil Nadu,Kolkata,2294,Corporate,Electronics,Chair,3,24906,10,Offline,Sneha,74718,7471.8,67246.2
+1567,2024-01-19,North,Karnataka,Chennai,2281,Corporate,Furniture,Laptop,2,2375,15,Online,Arjun,4750,712.5,4037.5
+1568,2024-06-25,West,West Bengal,Kolkata,2016,Retail,Furniture,Cabinet,7,37566,0,Online,Amit,262962,0.0,262962.0
+1569,2024-04-09,North,Tamil Nadu,Kolkata,2070,Corporate,Electronics,Monitor,9,37036,10,Offline,Arjun,333324,33332.4,299991.6
+1570,2024-08-20,North,Maharashtra,Mumbai,2268,Retail,Office Supplies,Laptop,1,6252,15,Offline,Priya,6252,937.8,5314.2
+1571,2024-03-16,North,Karnataka,Mumbai,2324,Corporate,Furniture,Chair,3,21717,15,Online,Amit,65151,9772.65,55378.35
+1572,2024-09-21,North,West Bengal,Kolkata,2304,Corporate,Furniture,Printer,5,12989,0,Offline,Arjun,64945,0.0,64945.0
+1573,2024-10-10,East,Karnataka,Bengaluru,2450,Corporate,Office Supplies,Desk,3,1853,20,Online,Amit,5559,1111.8,4447.2
+1574,2024-07-24,West,Maharashtra,Kolkata,2006,Retail,Office Supplies,Printer,1,27486,10,Offline,Priya,27486,2748.6,24737.4
+1575,2024-08-10,South,West Bengal,Kolkata,2313,Retail,Electronics,Monitor,7,21871,10,Offline,Sneha,153097,15309.7,137787.3
+1576,2024-02-21,North,Karnataka,Delhi,2102,Retail,Office Supplies,Router,7,39865,0,Online,Sneha,279055,0.0,279055.0
+1577,2024-12-04,East,Delhi,Delhi,2192,Retail,Electronics,Desk,8,15191,20,Offline,Arjun,121528,24305.6,97222.4
+1578,2024-05-23,East,Maharashtra,Delhi,2573,Corporate,Office Supplies,Printer,5,4811,10,Online,Rohit,24055,2405.5,21649.5
+1579,2024-03-09,East,Maharashtra,Bengaluru,2528,Retail,Furniture,Cabinet,5,48575,10,Offline,Priya,242875,24287.5,218587.5
+1580,2024-04-08,South,Maharashtra,Bengaluru,2170,Retail,Electronics,Desk,5,11294,10,Online,Arjun,56470,5647.0,50823.0
+1581,2024-01-25,North,Delhi,Kolkata,2536,Corporate,Electronics,Router,1,3434,20,Offline,Arjun,3434,686.8,2747.2
+1582,2024-02-22,West,Delhi,Delhi,2250,Corporate,Electronics,Laptop,5,16906,0,Offline,Sneha,84530,0.0,84530.0
+1583,2024-05-30,West,Tamil Nadu,Bengaluru,2386,Retail,Office Supplies,Chair,6,10894,10,Online,Amit,65364,6536.4,58827.6
+1584,2024-05-23,East,Karnataka,Mumbai,2206,Corporate,Furniture,Printer,1,27372,15,Offline,Priya,27372,4105.8,23266.2
+1585,2024-02-26,South,Tamil Nadu,Kolkata,2540,Retail,Electronics,Monitor,7,42208,20,Online,Amit,295456,59091.2,236364.8
+1586,2024-02-08,South,Karnataka,Chennai,2415,Corporate,Electronics,Laptop,1,41593,5,Offline,Neha,41593,2079.65,39513.35
+1587,2024-04-18,South,Delhi,Kolkata,2379,Retail,Electronics,Printer,2,21300,0,Offline,Neha,42600,0.0,42600.0
+1588,2024-06-29,West,Delhi,Chennai,2143,Retail,Electronics,Laptop,2,43897,15,Online,Priya,87794,13169.1,74624.9
+1589,2024-02-11,East,Tamil Nadu,Delhi,2024,Retail,Furniture,Monitor,5,38409,10,Offline,Rohit,192045,19204.5,172840.5
+1590,2024-07-04,North,West Bengal,Chennai,2072,Retail,Office Supplies,Printer,7,21852,5,Offline,Neha,152964,7648.2,145315.8
+1591,2024-08-10,West,Tamil Nadu,Delhi,2092,Retail,Furniture,Router,1,36939,0,Online,Sneha,36939,0.0,36939.0
+1592,2024-05-01,East,Karnataka,Mumbai,2504,Corporate,Electronics,Router,1,28812,20,Offline,Rohit,28812,5762.4,23049.6
+1593,2024-05-12,East,Tamil Nadu,Chennai,2597,Retail,Furniture,Monitor,1,40560,5,Online,Arjun,40560,2028.0,38532.0
+1594,2024-06-11,North,Maharashtra,Kolkata,2335,Retail,Electronics,Desk,6,15938,5,Online,Neha,95628,4781.4,90846.6
+1595,2024-08-02,North,Karnataka,Delhi,2424,Retail,Office Supplies,Monitor,2,23885,15,Online,Sneha,47770,7165.5,40604.5
+1596,2024-08-08,North,Karnataka,Kolkata,2498,Retail,Office Supplies,Desk,1,45499,0,Offline,Arjun,45499,0.0,45499.0
+1597,2024-08-22,South,West Bengal,Bengaluru,2363,Retail,Office Supplies,Printer,6,18982,15,Offline,Rohit,113892,17083.8,96808.2
+1598,2024-11-26,North,Delhi,Delhi,2198,Corporate,Electronics,Desk,2,32971,15,Online,Priya,65942,9891.3,56050.7
+1599,2024-05-25,East,Karnataka,Chennai,2412,Corporate,Furniture,Printer,6,47779,10,Offline,Arjun,286674,28667.4,258006.6
+1600,2024-08-26,North,Delhi,Delhi,2338,Retail,Office Supplies,Printer,8,44377,20,Online,Amit,355016,71003.2,284012.8
+1601,2024-03-16,East,Tamil Nadu,Kolkata,2428,Corporate,Electronics,Cabinet,2,41712,5,Offline,Priya,83424,4171.2,79252.8
+1602,2024-01-09,West,Maharashtra,Mumbai,2138,Retail,Electronics,Chair,9,48873,0,Online,Priya,439857,0.0,439857.0
+1603,2024-03-14,South,West Bengal,Delhi,2541,Corporate,Furniture,Printer,8,13526,20,Online,Rohit,108208,21641.6,86566.4
+1604,2024-09-09,West,Delhi,Chennai,2056,Corporate,Office Supplies,Desk,1,42589,20,Offline,Rohit,42589,8517.8,34071.2
+1605,2024-08-17,West,Karnataka,Bengaluru,2231,Retail,Electronics,Chair,7,20148,0,Online,Sneha,141036,0.0,141036.0
+1606,2024-01-07,East,Delhi,Mumbai,2434,Corporate,Furniture,Chair,6,5935,20,Online,Sneha,35610,7122.0,28488.0
+1607,2024-06-22,West,Karnataka,Bengaluru,2383,Corporate,Office Supplies,Printer,6,8993,10,Offline,Amit,53958,5395.8,48562.2
+1608,2024-05-20,East,Delhi,Delhi,2559,Retail,Furniture,Monitor,6,7191,20,Online,Priya,43146,8629.2,34516.8
+1609,2024-06-16,North,Karnataka,Kolkata,2193,Retail,Furniture,Monitor,6,3263,10,Online,Amit,19578,1957.8,17620.2
+1610,2024-06-18,North,Tamil Nadu,Kolkata,2533,Corporate,Electronics,Router,7,20889,5,Offline,Amit,146223,7311.15,138911.85
+1611,2024-10-09,East,Karnataka,Chennai,2517,Corporate,Electronics,Chair,3,31998,5,Online,Rohit,95994,4799.7,91194.3
+1612,2024-05-01,North,Karnataka,Kolkata,2184,Corporate,Electronics,Printer,6,36509,15,Online,Amit,219054,32858.1,186195.9
+1613,2024-07-12,South,Maharashtra,Mumbai,2291,Retail,Furniture,Cabinet,3,36325,10,Online,Amit,108975,10897.5,98077.5
+1614,2024-01-05,West,Karnataka,Kolkata,2334,Corporate,Electronics,Monitor,7,17434,5,Online,Arjun,122038,6101.9,115936.1
+1615,2024-01-29,South,Maharashtra,Chennai,2115,Corporate,Furniture,Cabinet,7,6074,20,Online,Sneha,42518,8503.6,34014.4
+1616,2024-06-13,West,West Bengal,Delhi,2048,Corporate,Furniture,Printer,8,38679,0,Online,Sneha,309432,0.0,309432.0
+1617,2024-12-04,North,Maharashtra,Delhi,2081,Retail,Electronics,Printer,2,2087,0,Online,Priya,4174,0.0,4174.0
+1618,2024-05-15,South,Tamil Nadu,Kolkata,2332,Retail,Office Supplies,Chair,9,43282,10,Online,Sneha,389538,38953.8,350584.2
+1619,2024-12-30,North,Maharashtra,Bengaluru,2556,Retail,Office Supplies,Cabinet,5,39188,15,Offline,Neha,195940,29391.0,166549.0
+1620,2024-11-16,West,West Bengal,Delhi,2334,Retail,Office Supplies,Router,9,12188,20,Online,Priya,109692,21938.4,87753.6
+1621,2024-12-07,East,Tamil Nadu,Kolkata,2531,Corporate,Furniture,Chair,5,4909,10,Online,Arjun,24545,2454.5,22090.5
+1622,2024-05-24,East,Delhi,Chennai,2220,Retail,Furniture,Laptop,7,6283,0,Offline,Sneha,43981,0.0,43981.0
+1623,2024-11-22,South,Delhi,Kolkata,2322,Corporate,Furniture,Cabinet,9,33980,10,Online,Arjun,305820,30582.0,275238.0
+1624,2024-08-04,North,Maharashtra,Delhi,2002,Corporate,Electronics,Monitor,4,27251,20,Online,Sneha,109004,21800.8,87203.2
+1625,2024-10-27,North,Maharashtra,Chennai,2205,Corporate,Furniture,Monitor,2,38674,5,Online,Sneha,77348,3867.4,73480.6
+1626,2024-05-11,South,West Bengal,Kolkata,2039,Corporate,Electronics,Monitor,9,12541,20,Online,Arjun,112869,22573.8,90295.2
+1627,2024-10-18,East,West Bengal,Mumbai,2058,Retail,Electronics,Desk,2,23727,5,Online,Amit,47454,2372.7,45081.3
+1628,2024-03-10,West,Karnataka,Chennai,2573,Retail,Office Supplies,Printer,3,35701,5,Online,Amit,107103,5355.15,101747.85
+1629,2024-09-08,South,West Bengal,Mumbai,2506,Retail,Office Supplies,Chair,2,36569,5,Offline,Amit,73138,3656.9,69481.1
+1630,2024-10-01,West,Karnataka,Bengaluru,2571,Retail,Office Supplies,Monitor,3,17154,10,Offline,Neha,51462,5146.2,46315.8
+1631,2024-12-29,East,Tamil Nadu,Chennai,2121,Retail,Electronics,Laptop,6,26870,0,Offline,Amit,161220,0.0,161220.0
+1632,2024-06-30,North,Maharashtra,Mumbai,2478,Corporate,Electronics,Monitor,3,29982,10,Offline,Sneha,89946,8994.6,80951.4
+1633,2024-06-15,East,Tamil Nadu,Delhi,2095,Retail,Electronics,Router,8,12086,0,Offline,Rohit,96688,0.0,96688.0
+1634,2024-03-31,South,West Bengal,Delhi,2413,Retail,Furniture,Printer,6,5822,20,Online,Arjun,34932,6986.4,27945.6
+1635,2024-07-20,North,Tamil Nadu,Bengaluru,2234,Retail,Electronics,Cabinet,7,14432,15,Online,Rohit,101024,15153.6,85870.4
+1636,2024-12-11,South,Tamil Nadu,Chennai,2061,Retail,Office Supplies,Printer,1,29799,20,Online,Neha,29799,5959.8,23839.2
+1637,2024-01-19,South,Tamil Nadu,Chennai,2255,Corporate,Office Supplies,Cabinet,3,25679,10,Online,Rohit,77037,7703.7,69333.3
+1638,2024-02-08,East,West Bengal,Chennai,2560,Corporate,Electronics,Cabinet,3,5757,10,Online,Priya,17271,1727.1,15543.9
+1639,2024-05-05,South,Tamil Nadu,Bengaluru,2347,Corporate,Electronics,Chair,2,47001,0,Offline,Amit,94002,0.0,94002.0
+1640,2024-06-21,East,Karnataka,Chennai,2123,Corporate,Office Supplies,Desk,7,46636,10,Offline,Neha,326452,32645.2,293806.8
+1641,2024-05-20,North,West Bengal,Delhi,2481,Corporate,Electronics,Cabinet,9,10277,5,Online,Sneha,92493,4624.65,87868.35
+1642,2024-08-29,East,Tamil Nadu,Mumbai,2316,Retail,Office Supplies,Cabinet,4,11749,10,Online,Amit,46996,4699.6,42296.4
+1643,2024-08-07,North,West Bengal,Delhi,2503,Corporate,Furniture,Chair,5,21890,0,Online,Amit,109450,0.0,109450.0
+1644,2024-05-05,East,Delhi,Delhi,2047,Corporate,Office Supplies,Monitor,3,20869,0,Offline,Rohit,62607,0.0,62607.0
+1645,2024-02-27,West,Karnataka,Mumbai,2408,Corporate,Furniture,Router,9,13381,5,Offline,Priya,120429,6021.45,114407.55
+1646,2024-05-27,West,Tamil Nadu,Delhi,2135,Retail,Electronics,Laptop,4,10087,0,Online,Amit,40348,0.0,40348.0
+1647,2024-11-12,South,Delhi,Bengaluru,2200,Retail,Electronics,Chair,5,28764,15,Offline,Arjun,143820,21573.0,122247.0
+1648,2024-12-26,East,Delhi,Mumbai,2249,Corporate,Furniture,Desk,1,9291,20,Online,Arjun,9291,1858.2,7432.8
+1649,2024-01-01,East,West Bengal,Delhi,2313,Retail,Electronics,Chair,2,41973,10,Offline,Amit,83946,8394.6,75551.4
+1650,2024-12-13,North,Delhi,Kolkata,2367,Retail,Furniture,Printer,9,22875,15,Offline,Rohit,205875,30881.25,174993.75
+1651,2024-07-08,South,Karnataka,Delhi,2428,Corporate,Electronics,Monitor,2,23111,10,Online,Rohit,46222,4622.2,41599.8
+1652,2024-07-09,East,Karnataka,Bengaluru,2479,Retail,Office Supplies,Monitor,5,42526,15,Offline,Sneha,212630,31894.5,180735.5
+1653,2024-11-07,South,Maharashtra,Chennai,2313,Retail,Electronics,Cabinet,8,8333,10,Offline,Neha,66664,6666.4,59997.6
+1654,2024-04-26,West,Karnataka,Delhi,2499,Retail,Office Supplies,Monitor,3,47513,5,Online,Neha,142539,7126.95,135412.05
+1655,2024-05-13,East,Delhi,Chennai,2354,Corporate,Office Supplies,Monitor,6,16254,0,Offline,Neha,97524,0.0,97524.0
+1656,2024-02-27,East,Karnataka,Kolkata,2484,Corporate,Furniture,Monitor,4,42548,0,Online,Priya,170192,0.0,170192.0
+1657,2024-02-13,South,West Bengal,Delhi,2210,Corporate,Electronics,Monitor,7,13077,5,Offline,Rohit,91539,4576.95,86962.05
+1658,2024-06-21,East,Maharashtra,Mumbai,2043,Retail,Furniture,Laptop,3,31595,15,Online,Sneha,94785,14217.75,80567.25
+1659,2024-06-08,South,Delhi,Chennai,2540,Corporate,Electronics,Desk,6,21748,20,Online,Arjun,130488,26097.6,104390.4
+1660,2024-06-21,East,Maharashtra,Kolkata,2570,Retail,Office Supplies,Cabinet,9,35782,15,Offline,Neha,322038,48305.7,273732.3
+1661,2024-11-12,North,Delhi,Mumbai,2582,Retail,Office Supplies,Monitor,1,37237,0,Offline,Arjun,37237,0.0,37237.0
+1662,2024-10-29,South,West Bengal,Mumbai,2091,Retail,Electronics,Cabinet,3,32391,20,Online,Arjun,97173,19434.6,77738.4
+1663,2024-05-28,East,Maharashtra,Mumbai,2264,Corporate,Electronics,Desk,2,24624,10,Offline,Amit,49248,4924.8,44323.2
+1664,2024-03-20,West,Tamil Nadu,Mumbai,2219,Corporate,Furniture,Router,8,5066,20,Offline,Priya,40528,8105.6,32422.4
+1665,2024-07-31,East,Delhi,Delhi,2441,Corporate,Electronics,Monitor,7,2696,15,Offline,Sneha,18872,2830.8,16041.2
+1666,2024-07-21,West,Tamil Nadu,Delhi,2400,Corporate,Electronics,Cabinet,2,31615,5,Online,Priya,63230,3161.5,60068.5
+1667,2024-09-08,West,Maharashtra,Delhi,2399,Retail,Electronics,Chair,6,20359,10,Online,Amit,122154,12215.4,109938.6
+1668,2024-08-16,North,Tamil Nadu,Kolkata,2575,Corporate,Furniture,Cabinet,3,11845,15,Online,Sneha,35535,5330.25,30204.75
+1669,2024-06-12,South,Tamil Nadu,Kolkata,2489,Retail,Electronics,Monitor,8,34577,10,Offline,Sneha,276616,27661.6,248954.4
+1670,2024-08-14,East,Maharashtra,Kolkata,2484,Corporate,Office Supplies,Printer,3,1364,20,Offline,Rohit,4092,818.4,3273.6
+1671,2024-05-26,North,West Bengal,Bengaluru,2469,Corporate,Furniture,Laptop,9,12555,0,Online,Priya,112995,0.0,112995.0
+1672,2024-01-20,East,Tamil Nadu,Kolkata,2573,Corporate,Furniture,Chair,1,38657,15,Online,Priya,38657,5798.55,32858.45
+1673,2024-02-16,West,Tamil Nadu,Delhi,2444,Retail,Office Supplies,Chair,5,20247,5,Offline,Rohit,101235,5061.75,96173.25
+1674,2024-08-20,South,West Bengal,Delhi,2268,Retail,Office Supplies,Printer,3,44984,20,Offline,Arjun,134952,26990.4,107961.6
+1675,2024-10-31,East,Tamil Nadu,Bengaluru,2266,Retail,Office Supplies,Monitor,6,12478,15,Offline,Amit,74868,11230.2,63637.8
+1676,2024-01-14,East,Tamil Nadu,Bengaluru,2053,Retail,Electronics,Laptop,2,25099,5,Offline,Priya,50198,2509.9,47688.1
+1677,2024-05-22,West,Tamil Nadu,Kolkata,2527,Retail,Office Supplies,Chair,9,36271,15,Online,Rohit,326439,48965.85,277473.15
+1678,2024-01-01,East,Karnataka,Chennai,2519,Corporate,Electronics,Laptop,6,47442,20,Offline,Sneha,284652,56930.4,227721.6
+1679,2024-02-23,East,West Bengal,Bengaluru,2058,Retail,Furniture,Chair,7,47040,15,Offline,Neha,329280,49392.0,279888.0
+1680,2024-09-15,West,Tamil Nadu,Mumbai,2039,Retail,Furniture,Monitor,5,18115,10,Online,Rohit,90575,9057.5,81517.5
+1681,2024-05-23,North,West Bengal,Delhi,2236,Retail,Office Supplies,Router,9,41227,20,Online,Neha,371043,74208.6,296834.4
+1682,2024-01-12,West,Delhi,Mumbai,2385,Retail,Electronics,Chair,1,45248,15,Offline,Arjun,45248,6787.2,38460.8
+1683,2024-11-25,North,Delhi,Delhi,2299,Corporate,Office Supplies,Router,5,39849,0,Online,Amit,199245,0.0,199245.0
+1684,2024-08-11,South,Tamil Nadu,Delhi,2394,Retail,Office Supplies,Chair,6,29877,15,Offline,Neha,179262,26889.3,152372.7
+1685,2024-09-28,North,West Bengal,Bengaluru,2206,Corporate,Electronics,Desk,7,30531,10,Offline,Arjun,213717,21371.7,192345.3
+1686,2024-12-23,North,West Bengal,Bengaluru,2335,Corporate,Office Supplies,Monitor,4,43233,5,Online,Neha,172932,8646.6,164285.4
+1687,2024-06-04,South,West Bengal,Mumbai,2592,Corporate,Furniture,Printer,1,12260,5,Online,Sneha,12260,613.0,11647.0
+1688,2024-01-08,North,Karnataka,Delhi,2513,Retail,Office Supplies,Router,8,48190,5,Offline,Sneha,385520,19276.0,366244.0
+1689,2024-05-01,West,Delhi,Mumbai,2177,Corporate,Electronics,Printer,4,34214,0,Online,Sneha,136856,0.0,136856.0
+1690,2024-12-13,North,West Bengal,Chennai,2395,Retail,Electronics,Monitor,3,26262,10,Offline,Sneha,78786,7878.6,70907.4
+1691,2024-06-12,South,West Bengal,Mumbai,2370,Retail,Furniture,Cabinet,7,34832,20,Offline,Rohit,243824,48764.8,195059.2
+1692,2024-03-30,West,Karnataka,Kolkata,2317,Retail,Electronics,Printer,2,40600,5,Offline,Sneha,81200,4060.0,77140.0
+1693,2024-05-15,South,Karnataka,Mumbai,2368,Retail,Electronics,Monitor,8,5444,10,Online,Sneha,43552,4355.2,39196.8
+1694,2024-07-04,South,West Bengal,Kolkata,2383,Retail,Furniture,Printer,6,49325,15,Offline,Rohit,295950,44392.5,251557.5
+1695,2024-11-11,East,Maharashtra,Kolkata,2061,Corporate,Office Supplies,Router,7,14377,0,Offline,Sneha,100639,0.0,100639.0
+1696,2024-06-26,East,West Bengal,Kolkata,2504,Corporate,Furniture,Desk,5,30490,10,Offline,Arjun,152450,15245.0,137205.0
+1697,2024-01-28,South,West Bengal,Chennai,2238,Retail,Office Supplies,Printer,9,43407,10,Online,Arjun,390663,39066.3,351596.7
+1698,2024-08-07,South,Karnataka,Mumbai,2194,Corporate,Furniture,Router,5,34576,20,Offline,Priya,172880,34576.0,138304.0
+1699,2024-12-22,South,Karnataka,Mumbai,2221,Retail,Office Supplies,Chair,5,3758,10,Offline,Arjun,18790,1879.0,16911.0
+1700,2024-02-10,East,West Bengal,Chennai,2060,Corporate,Furniture,Monitor,3,32129,20,Offline,Amit,96387,19277.4,77109.6
+1701,2024-08-15,East,West Bengal,Delhi,2128,Corporate,Office Supplies,Laptop,1,38079,0,Online,Amit,38079,0.0,38079.0
+1702,2024-07-10,North,West Bengal,Bengaluru,2155,Corporate,Furniture,Cabinet,2,23458,0,Offline,Amit,46916,0.0,46916.0
+1703,2024-05-24,North,Karnataka,Mumbai,2377,Corporate,Office Supplies,Laptop,8,39965,15,Offline,Rohit,319720,47958.0,271762.0
+1704,2024-07-19,South,West Bengal,Bengaluru,2585,Corporate,Furniture,Monitor,1,20817,20,Online,Arjun,20817,4163.4,16653.6
+1705,2024-07-30,West,West Bengal,Chennai,2436,Retail,Electronics,Desk,7,16275,20,Online,Amit,113925,22785.0,91140.0
+1706,2024-08-07,West,Tamil Nadu,Delhi,2206,Retail,Office Supplies,Printer,5,11539,5,Offline,Priya,57695,2884.75,54810.25
+1707,2024-08-27,East,Maharashtra,Delhi,2387,Corporate,Furniture,Desk,3,29597,5,Offline,Rohit,88791,4439.55,84351.45
+1708,2024-02-15,East,Delhi,Delhi,2479,Retail,Office Supplies,Laptop,7,34707,15,Offline,Priya,242949,36442.35,206506.65
+1709,2024-02-04,East,Maharashtra,Chennai,2339,Corporate,Office Supplies,Cabinet,9,23053,0,Online,Arjun,207477,0.0,207477.0
+1710,2024-09-09,South,Tamil Nadu,Kolkata,2339,Retail,Furniture,Router,2,44902,5,Online,Sneha,89804,4490.2,85313.8
+1711,2024-03-22,West,Delhi,Kolkata,2203,Corporate,Office Supplies,Cabinet,8,555,10,Offline,Priya,4440,444.0,3996.0
+1712,2024-09-12,North,West Bengal,Bengaluru,2160,Corporate,Furniture,Monitor,9,23661,0,Online,Sneha,212949,0.0,212949.0
+1713,2024-07-15,South,Tamil Nadu,Kolkata,2539,Corporate,Electronics,Monitor,3,33373,10,Offline,Rohit,100119,10011.9,90107.1
+1714,2024-10-29,North,West Bengal,Kolkata,2391,Retail,Office Supplies,Desk,2,36469,20,Offline,Priya,72938,14587.6,58350.4
+1715,2024-01-10,North,Karnataka,Delhi,2574,Retail,Electronics,Router,7,15684,0,Online,Priya,109788,0.0,109788.0
+1716,2024-11-07,South,Tamil Nadu,Delhi,2533,Corporate,Office Supplies,Desk,5,1169,15,Offline,Neha,5845,876.75,4968.25
+1717,2024-10-12,North,Karnataka,Bengaluru,2069,Corporate,Office Supplies,Printer,5,13163,20,Online,Rohit,65815,13163.0,52652.0
+1718,2024-08-29,West,Tamil Nadu,Mumbai,2404,Retail,Office Supplies,Chair,5,25818,20,Online,Rohit,129090,25818.0,103272.0
+1719,2024-09-07,North,Tamil Nadu,Bengaluru,2590,Retail,Furniture,Router,4,34234,10,Offline,Amit,136936,13693.6,123242.4
+1720,2024-12-30,West,Karnataka,Bengaluru,2516,Retail,Electronics,Chair,5,17191,20,Online,Arjun,85955,17191.0,68764.0
+1721,2024-01-05,West,Delhi,Chennai,2119,Retail,Office Supplies,Cabinet,4,19022,5,Offline,Priya,76088,3804.4,72283.6
+1722,2024-04-28,West,Maharashtra,Chennai,2216,Retail,Furniture,Printer,6,12156,0,Online,Priya,72936,0.0,72936.0
+1723,2024-10-15,East,West Bengal,Bengaluru,2055,Corporate,Office Supplies,Chair,4,16393,5,Offline,Rohit,65572,3278.6,62293.4
+1724,2024-03-05,North,Tamil Nadu,Bengaluru,2365,Retail,Furniture,Laptop,2,46357,10,Offline,Rohit,92714,9271.4,83442.6
+1725,2024-05-25,South,West Bengal,Bengaluru,2503,Corporate,Office Supplies,Cabinet,9,16993,10,Offline,Arjun,152937,15293.7,137643.3
+1726,2024-08-11,South,Karnataka,Kolkata,2454,Corporate,Electronics,Chair,2,4132,0,Online,Rohit,8264,0.0,8264.0
+1727,2024-08-26,North,West Bengal,Chennai,2103,Retail,Electronics,Printer,9,30836,20,Offline,Sneha,277524,55504.8,222019.2
+1728,2024-06-25,East,Karnataka,Bengaluru,2076,Retail,Office Supplies,Chair,6,23612,15,Online,Sneha,141672,21250.8,120421.2
+1729,2024-09-23,East,West Bengal,Delhi,2229,Corporate,Furniture,Monitor,9,38952,10,Online,Neha,350568,35056.8,315511.2
+1730,2024-12-06,West,Maharashtra,Delhi,2257,Retail,Office Supplies,Desk,9,13766,0,Online,Sneha,123894,0.0,123894.0
+1731,2024-10-08,North,Maharashtra,Kolkata,2263,Corporate,Furniture,Laptop,3,17440,15,Online,Sneha,52320,7848.0,44472.0
+1732,2024-03-03,North,Maharashtra,Kolkata,2330,Retail,Office Supplies,Monitor,1,24503,20,Online,Arjun,24503,4900.6,19602.4
+1733,2024-08-04,South,Maharashtra,Mumbai,2181,Retail,Furniture,Monitor,1,33372,10,Offline,Priya,33372,3337.2,30034.8
+1734,2024-12-07,North,Maharashtra,Mumbai,2549,Retail,Electronics,Printer,3,35315,0,Online,Sneha,105945,0.0,105945.0
+1735,2024-11-10,East,Maharashtra,Mumbai,2026,Corporate,Office Supplies,Desk,5,31369,0,Offline,Neha,156845,0.0,156845.0
+1736,2024-10-09,North,Karnataka,Kolkata,2275,Retail,Electronics,Desk,3,49797,0,Offline,Rohit,149391,0.0,149391.0
+1737,2024-06-25,South,Tamil Nadu,Kolkata,2298,Corporate,Electronics,Router,9,17757,10,Online,Sneha,159813,15981.3,143831.7
+1738,2024-04-07,West,West Bengal,Kolkata,2090,Retail,Office Supplies,Cabinet,9,17182,15,Offline,Neha,154638,23195.7,131442.3
+1739,2024-04-14,South,Maharashtra,Delhi,2479,Corporate,Office Supplies,Laptop,3,20122,0,Offline,Arjun,60366,0.0,60366.0
+1740,2024-04-08,South,Karnataka,Kolkata,2572,Retail,Furniture,Cabinet,3,30908,20,Online,Rohit,92724,18544.8,74179.2
+1741,2024-11-06,West,Karnataka,Delhi,2457,Corporate,Furniture,Printer,5,9337,0,Offline,Neha,46685,0.0,46685.0
+1742,2024-01-06,South,Karnataka,Mumbai,2450,Corporate,Electronics,Laptop,2,15907,15,Online,Sneha,31814,4772.1,27041.9
+1743,2024-07-15,South,Tamil Nadu,Mumbai,2364,Corporate,Furniture,Router,6,29809,10,Online,Priya,178854,17885.4,160968.6
+1744,2024-12-16,North,West Bengal,Mumbai,2350,Corporate,Furniture,Chair,7,6882,0,Online,Rohit,48174,0.0,48174.0
+1745,2024-05-12,North,Tamil Nadu,Bengaluru,2399,Corporate,Office Supplies,Monitor,9,28154,0,Offline,Rohit,253386,0.0,253386.0
+1746,2024-12-23,West,Delhi,Bengaluru,2252,Corporate,Furniture,Laptop,6,19395,20,Offline,Priya,116370,23274.0,93096.0
+1747,2024-09-15,North,Karnataka,Chennai,2458,Retail,Electronics,Cabinet,3,34051,20,Offline,Rohit,102153,20430.6,81722.4
+1748,2024-01-23,North,Delhi,Chennai,2498,Corporate,Furniture,Monitor,5,21876,0,Offline,Sneha,109380,0.0,109380.0
+1749,2024-02-22,South,Maharashtra,Chennai,2507,Corporate,Electronics,Printer,4,870,0,Online,Rohit,3480,0.0,3480.0
+1750,2024-06-13,East,Maharashtra,Bengaluru,2303,Corporate,Office Supplies,Cabinet,5,49176,20,Online,Sneha,245880,49176.0,196704.0
+1751,2024-07-20,North,Tamil Nadu,Bengaluru,2500,Retail,Electronics,Chair,8,986,15,Offline,Priya,7888,1183.2,6704.8
+1752,2024-03-23,East,West Bengal,Chennai,2597,Retail,Furniture,Printer,8,24262,5,Online,Amit,194096,9704.8,184391.2
+1753,2024-05-24,North,Delhi,Chennai,2165,Retail,Office Supplies,Chair,6,27113,5,Offline,Priya,162678,8133.9,154544.1
+1754,2024-03-25,North,West Bengal,Kolkata,2414,Corporate,Furniture,Chair,1,47768,0,Online,Sneha,47768,0.0,47768.0
+1755,2024-03-18,West,Tamil Nadu,Chennai,2461,Retail,Office Supplies,Monitor,8,3696,20,Online,Arjun,29568,5913.6,23654.4
+1756,2024-01-01,West,Maharashtra,Kolkata,2113,Retail,Office Supplies,Printer,8,42820,10,Online,Priya,342560,34256.0,308304.0
+1757,2024-02-20,West,West Bengal,Delhi,2432,Corporate,Furniture,Printer,2,29901,10,Online,Arjun,59802,5980.2,53821.8
+1758,2024-06-21,East,West Bengal,Bengaluru,2355,Corporate,Furniture,Laptop,4,35529,5,Online,Arjun,142116,7105.8,135010.2
+1759,2024-07-23,South,Maharashtra,Chennai,2206,Retail,Office Supplies,Cabinet,2,11313,15,Offline,Sneha,22626,3393.9,19232.1
+1760,2024-09-16,North,Delhi,Bengaluru,2234,Corporate,Office Supplies,Printer,4,42416,5,Offline,Sneha,169664,8483.2,161180.8
+1761,2024-10-14,North,Maharashtra,Bengaluru,2441,Corporate,Furniture,Laptop,7,9072,0,Online,Amit,63504,0.0,63504.0
+1762,2024-02-03,North,West Bengal,Bengaluru,2354,Corporate,Electronics,Desk,9,48276,15,Offline,Neha,434484,65172.6,369311.4
+1763,2024-12-13,East,Delhi,Delhi,2514,Corporate,Furniture,Desk,8,28725,10,Online,Rohit,229800,22980.0,206820.0
+1764,2024-04-04,West,Delhi,Mumbai,2207,Retail,Office Supplies,Desk,9,46353,20,Online,Priya,417177,83435.4,333741.6
+1765,2024-03-12,South,Maharashtra,Chennai,2124,Corporate,Furniture,Router,8,49890,20,Online,Sneha,399120,79824.0,319296.0
+1766,2024-02-08,East,West Bengal,Mumbai,2137,Retail,Electronics,Printer,2,32775,0,Online,Priya,65550,0.0,65550.0
+1767,2024-06-02,West,Tamil Nadu,Mumbai,2338,Retail,Furniture,Router,7,7343,5,Offline,Neha,51401,2570.05,48830.95
+1768,2024-09-06,East,West Bengal,Mumbai,2536,Retail,Office Supplies,Cabinet,2,1605,0,Online,Neha,3210,0.0,3210.0
+1769,2024-06-10,South,Karnataka,Bengaluru,2067,Retail,Furniture,Printer,2,43709,20,Offline,Arjun,87418,17483.6,69934.4
+1770,2024-04-27,West,Tamil Nadu,Kolkata,2572,Corporate,Office Supplies,Laptop,4,32139,10,Online,Rohit,128556,12855.6,115700.4
+1771,2024-09-15,East,Delhi,Bengaluru,2540,Corporate,Office Supplies,Router,1,42987,20,Online,Amit,42987,8597.4,34389.6
+1772,2024-11-01,South,Tamil Nadu,Bengaluru,2382,Corporate,Furniture,Router,5,18551,15,Offline,Priya,92755,13913.25,78841.75
+1773,2024-09-24,North,Delhi,Mumbai,2018,Retail,Office Supplies,Cabinet,6,29208,20,Online,Rohit,175248,35049.6,140198.4
+1774,2024-02-23,South,Delhi,Bengaluru,2449,Retail,Office Supplies,Router,9,35959,20,Online,Amit,323631,64726.2,258904.8
+1775,2024-08-23,North,Tamil Nadu,Mumbai,2073,Retail,Electronics,Chair,8,12364,15,Offline,Priya,98912,14836.8,84075.2
+1776,2024-08-09,East,Delhi,Kolkata,2572,Corporate,Electronics,Laptop,2,35264,5,Offline,Rohit,70528,3526.4,67001.6
+1777,2024-09-07,West,Delhi,Chennai,2275,Retail,Electronics,Desk,1,1925,20,Offline,Sneha,1925,385.0,1540.0
+1778,2024-11-08,West,Karnataka,Mumbai,2047,Corporate,Electronics,Laptop,2,49646,0,Online,Priya,99292,0.0,99292.0
+1779,2024-04-21,East,West Bengal,Kolkata,2210,Corporate,Office Supplies,Chair,7,7349,20,Online,Rohit,51443,10288.6,41154.4
+1780,2024-09-11,West,West Bengal,Chennai,2539,Corporate,Furniture,Cabinet,4,36515,0,Offline,Neha,146060,0.0,146060.0
+1781,2024-10-29,West,Karnataka,Delhi,2190,Corporate,Office Supplies,Cabinet,5,19476,15,Offline,Amit,97380,14607.0,82773.0
+1782,2024-07-25,North,Tamil Nadu,Mumbai,2314,Retail,Office Supplies,Printer,7,34758,20,Online,Rohit,243306,48661.2,194644.8
+1783,2024-08-16,East,Maharashtra,Mumbai,2562,Corporate,Office Supplies,Laptop,3,47578,15,Online,Sneha,142734,21410.1,121323.9
+1784,2024-12-06,South,Maharashtra,Delhi,2561,Retail,Furniture,Cabinet,2,31613,15,Offline,Priya,63226,9483.9,53742.1
+1785,2024-03-06,North,Maharashtra,Delhi,2112,Corporate,Electronics,Router,7,15901,5,Offline,Priya,111307,5565.35,105741.65
+1786,2024-03-15,East,Karnataka,Mumbai,2169,Retail,Office Supplies,Cabinet,5,13384,20,Offline,Priya,66920,13384.0,53536.0
+1787,2024-04-12,North,Karnataka,Delhi,2467,Retail,Office Supplies,Cabinet,1,19324,0,Offline,Sneha,19324,0.0,19324.0
+1788,2024-07-10,South,Delhi,Bengaluru,2013,Corporate,Electronics,Cabinet,1,38063,0,Online,Amit,38063,0.0,38063.0
+1789,2024-09-08,South,Maharashtra,Chennai,2287,Corporate,Office Supplies,Cabinet,9,34914,20,Online,Priya,314226,62845.2,251380.8
+1790,2024-08-13,East,Tamil Nadu,Chennai,2188,Corporate,Furniture,Desk,5,16642,5,Online,Amit,83210,4160.5,79049.5
+1791,2024-10-20,South,Tamil Nadu,Chennai,2154,Retail,Office Supplies,Desk,1,47574,5,Online,Rohit,47574,2378.7,45195.3
+1792,2024-11-01,North,Maharashtra,Bengaluru,2566,Corporate,Office Supplies,Printer,7,6456,5,Offline,Neha,45192,2259.6,42932.4
+1793,2024-04-07,South,Maharashtra,Delhi,2470,Corporate,Electronics,Cabinet,9,14428,0,Online,Neha,129852,0.0,129852.0
+1794,2024-12-03,North,Maharashtra,Kolkata,2074,Retail,Office Supplies,Laptop,1,10221,15,Offline,Amit,10221,1533.15,8687.85
+1795,2024-10-12,North,Karnataka,Delhi,2276,Corporate,Office Supplies,Chair,4,11657,5,Online,Amit,46628,2331.4,44296.6
+1796,2024-11-30,South,Karnataka,Mumbai,2342,Retail,Furniture,Printer,3,35635,0,Online,Neha,106905,0.0,106905.0
+1797,2024-12-12,East,Karnataka,Chennai,2424,Corporate,Electronics,Laptop,5,7196,0,Online,Priya,35980,0.0,35980.0
+1798,2024-11-03,West,West Bengal,Delhi,2570,Retail,Electronics,Cabinet,7,28362,15,Offline,Arjun,198534,29780.1,168753.9
+1799,2024-09-05,South,Tamil Nadu,Kolkata,2510,Retail,Furniture,Monitor,8,5690,20,Online,Arjun,45520,9104.0,36416.0
+1800,2024-06-14,North,Tamil Nadu,Mumbai,2181,Corporate,Office Supplies,Cabinet,2,5163,20,Offline,Sneha,10326,2065.2,8260.8
+1801,2024-11-30,North,Delhi,Bengaluru,2457,Retail,Electronics,Desk,7,40330,5,Offline,Neha,282310,14115.5,268194.5
+1802,2024-01-30,South,Karnataka,Bengaluru,2063,Corporate,Electronics,Chair,1,4831,5,Online,Neha,4831,241.55,4589.45
+1803,2024-09-03,East,West Bengal,Kolkata,2259,Corporate,Office Supplies,Router,7,45148,15,Offline,Sneha,316036,47405.4,268630.6
+1804,2024-04-15,East,West Bengal,Mumbai,2192,Retail,Office Supplies,Chair,8,29049,5,Online,Arjun,232392,11619.6,220772.4
+1805,2024-02-20,North,Tamil Nadu,Chennai,2405,Corporate,Electronics,Router,2,16746,15,Offline,Rohit,33492,5023.8,28468.2
+1806,2024-03-21,North,Karnataka,Delhi,2092,Retail,Office Supplies,Chair,9,26261,0,Online,Priya,236349,0.0,236349.0
+1807,2024-05-12,East,Delhi,Mumbai,2429,Retail,Electronics,Desk,1,3762,5,Offline,Priya,3762,188.1,3573.9
+1808,2024-10-11,West,Karnataka,Bengaluru,2433,Retail,Office Supplies,Router,6,46588,0,Offline,Rohit,279528,0.0,279528.0
+1809,2024-05-17,South,Maharashtra,Kolkata,2403,Retail,Office Supplies,Laptop,1,7536,10,Online,Rohit,7536,753.6,6782.4
+1810,2024-07-02,North,Karnataka,Kolkata,2433,Retail,Furniture,Router,3,22822,15,Online,Arjun,68466,10269.9,58196.1
+1811,2024-11-25,North,Maharashtra,Delhi,2111,Retail,Office Supplies,Printer,6,19631,10,Online,Sneha,117786,11778.6,106007.4
+1812,2024-09-29,East,Maharashtra,Kolkata,2374,Retail,Furniture,Laptop,3,5177,5,Online,Rohit,15531,776.55,14754.45
+1813,2024-12-05,South,Delhi,Kolkata,2058,Retail,Office Supplies,Printer,8,8472,0,Offline,Sneha,67776,0.0,67776.0
+1814,2024-03-09,East,Tamil Nadu,Mumbai,2042,Corporate,Electronics,Cabinet,5,15829,5,Offline,Amit,79145,3957.25,75187.75
+1815,2024-02-03,South,Karnataka,Chennai,2206,Corporate,Electronics,Chair,2,37532,10,Offline,Priya,75064,7506.4,67557.6
+1816,2024-09-18,South,Maharashtra,Delhi,2295,Retail,Office Supplies,Laptop,4,36401,5,Offline,Arjun,145604,7280.2,138323.8
+1817,2024-02-22,South,Karnataka,Mumbai,2117,Corporate,Office Supplies,Chair,9,44880,20,Online,Priya,403920,80784.0,323136.0
+1818,2024-07-23,North,Tamil Nadu,Chennai,2531,Corporate,Electronics,Cabinet,4,20993,10,Offline,Arjun,83972,8397.2,75574.8
+1819,2024-05-05,West,Tamil Nadu,Mumbai,2221,Corporate,Office Supplies,Monitor,8,19095,5,Online,Amit,152760,7638.0,145122.0
+1820,2024-08-22,East,West Bengal,Mumbai,2165,Corporate,Furniture,Chair,5,22423,0,Offline,Priya,112115,0.0,112115.0
+1821,2024-02-12,West,Tamil Nadu,Kolkata,2155,Corporate,Furniture,Cabinet,1,47426,5,Online,Amit,47426,2371.3,45054.7
+1822,2024-08-27,East,Delhi,Chennai,2183,Corporate,Furniture,Chair,7,10235,0,Online,Arjun,71645,0.0,71645.0
+1823,2024-04-20,South,Maharashtra,Delhi,2089,Retail,Furniture,Cabinet,3,34957,20,Online,Rohit,104871,20974.2,83896.8
+1824,2024-09-05,North,West Bengal,Delhi,2093,Corporate,Furniture,Printer,8,43031,5,Online,Priya,344248,17212.4,327035.6
+1825,2024-05-30,West,Delhi,Chennai,2012,Corporate,Office Supplies,Cabinet,3,8227,20,Online,Amit,24681,4936.2,19744.8
+1826,2024-07-01,North,Karnataka,Kolkata,2437,Corporate,Office Supplies,Router,1,8264,10,Offline,Neha,8264,826.4,7437.6
+1827,2024-12-01,East,Maharashtra,Bengaluru,2537,Corporate,Furniture,Monitor,5,46271,0,Online,Priya,231355,0.0,231355.0
+1828,2024-04-04,North,Tamil Nadu,Mumbai,2586,Retail,Office Supplies,Chair,2,28099,10,Offline,Priya,56198,5619.8,50578.2
+1829,2024-01-08,North,Maharashtra,Kolkata,2149,Retail,Office Supplies,Cabinet,4,1318,0,Offline,Priya,5272,0.0,5272.0
+1830,2024-12-25,West,Karnataka,Chennai,2007,Retail,Furniture,Cabinet,1,47707,20,Online,Sneha,47707,9541.4,38165.6
+1831,2024-07-02,South,West Bengal,Mumbai,2028,Retail,Office Supplies,Chair,9,48345,15,Offline,Amit,435105,65265.75,369839.25
+1832,2024-10-07,North,West Bengal,Delhi,2295,Corporate,Office Supplies,Monitor,6,37789,5,Offline,Amit,226734,11336.7,215397.3
+1833,2024-07-13,South,West Bengal,Bengaluru,2339,Retail,Office Supplies,Monitor,8,34392,20,Offline,Priya,275136,55027.2,220108.8
+1834,2024-12-17,East,Tamil Nadu,Delhi,2438,Retail,Furniture,Cabinet,4,6160,0,Online,Rohit,24640,0.0,24640.0
+1835,2024-07-13,North,Delhi,Chennai,2143,Retail,Office Supplies,Laptop,9,30021,0,Online,Priya,270189,0.0,270189.0
+1836,2024-06-03,West,Delhi,Mumbai,2518,Retail,Electronics,Printer,2,38909,0,Online,Sneha,77818,0.0,77818.0
+1837,2024-04-02,East,Maharashtra,Chennai,2044,Corporate,Electronics,Monitor,9,34970,0,Online,Arjun,314730,0.0,314730.0
+1838,2024-06-08,East,Tamil Nadu,Mumbai,2238,Retail,Furniture,Monitor,5,18885,5,Offline,Sneha,94425,4721.25,89703.75
+1839,2024-03-01,West,West Bengal,Kolkata,2154,Corporate,Electronics,Desk,6,23796,10,Offline,Rohit,142776,14277.6,128498.4
+1840,2024-05-01,North,West Bengal,Bengaluru,2180,Retail,Furniture,Router,3,24116,15,Offline,Priya,72348,10852.2,61495.8
+1841,2024-02-20,North,Karnataka,Kolkata,2214,Corporate,Electronics,Monitor,4,26882,5,Offline,Amit,107528,5376.4,102151.6
+1842,2024-10-03,East,Karnataka,Kolkata,2087,Corporate,Electronics,Printer,6,11639,0,Offline,Neha,69834,0.0,69834.0
+1843,2024-01-05,North,West Bengal,Chennai,2255,Retail,Electronics,Router,7,32560,5,Offline,Priya,227920,11396.0,216524.0
+1844,2024-04-01,South,West Bengal,Bengaluru,2510,Retail,Furniture,Router,1,22919,20,Online,Rohit,22919,4583.8,18335.2
+1845,2024-06-18,West,Tamil Nadu,Mumbai,2072,Retail,Furniture,Chair,7,28285,0,Offline,Amit,197995,0.0,197995.0
+1846,2024-11-12,South,Delhi,Mumbai,2178,Retail,Office Supplies,Chair,1,16202,15,Offline,Sneha,16202,2430.3,13771.7
+1847,2024-01-22,North,Karnataka,Delhi,2211,Corporate,Furniture,Chair,5,29717,0,Offline,Arjun,148585,0.0,148585.0
+1848,2024-11-21,East,Delhi,Mumbai,2233,Corporate,Electronics,Chair,6,39791,15,Online,Arjun,238746,35811.9,202934.1
+1849,2024-01-01,West,Tamil Nadu,Chennai,2464,Retail,Electronics,Desk,2,12897,15,Offline,Priya,25794,3869.1,21924.9
+1850,2024-05-12,North,West Bengal,Kolkata,2222,Retail,Furniture,Monitor,9,41379,10,Offline,Sneha,372411,37241.1,335169.9
+1851,2024-08-20,North,Delhi,Kolkata,2263,Corporate,Furniture,Chair,6,35669,10,Online,Neha,214014,21401.4,192612.6
+1852,2024-01-12,East,West Bengal,Kolkata,2206,Retail,Furniture,Cabinet,7,27440,5,Offline,Neha,192080,9604.0,182476.0
+1853,2024-12-11,East,West Bengal,Bengaluru,2365,Corporate,Office Supplies,Laptop,8,42749,5,Online,Rohit,341992,17099.6,324892.4
+1854,2024-02-15,South,Maharashtra,Mumbai,2275,Retail,Electronics,Chair,1,28841,15,Online,Arjun,28841,4326.15,24514.85
+1855,2024-02-03,West,Delhi,Chennai,2379,Corporate,Office Supplies,Monitor,8,10567,0,Offline,Sneha,84536,0.0,84536.0
+1856,2024-03-18,West,Delhi,Bengaluru,2308,Corporate,Office Supplies,Chair,4,46644,20,Offline,Priya,186576,37315.2,149260.8
+1857,2024-08-05,East,West Bengal,Delhi,2267,Corporate,Electronics,Desk,8,14324,20,Online,Amit,114592,22918.4,91673.6
+1858,2024-10-27,South,Tamil Nadu,Chennai,2063,Corporate,Electronics,Printer,6,13944,0,Offline,Priya,83664,0.0,83664.0
+1859,2024-03-13,West,Maharashtra,Chennai,2349,Corporate,Furniture,Printer,9,46147,0,Offline,Priya,415323,0.0,415323.0
+1860,2024-10-08,East,West Bengal,Chennai,2493,Retail,Furniture,Monitor,4,49380,10,Online,Sneha,197520,19752.0,177768.0
+1861,2024-09-05,North,Karnataka,Kolkata,2522,Corporate,Office Supplies,Cabinet,2,33807,20,Online,Arjun,67614,13522.8,54091.2
+1862,2024-02-16,West,Karnataka,Chennai,2097,Retail,Furniture,Printer,2,11474,15,Offline,Sneha,22948,3442.2,19505.8
+1863,2024-04-30,South,Maharashtra,Mumbai,2070,Corporate,Furniture,Printer,5,47114,5,Online,Amit,235570,11778.5,223791.5
+1864,2024-08-01,South,Tamil Nadu,Chennai,2363,Corporate,Electronics,Laptop,9,38883,10,Offline,Sneha,349947,34994.7,314952.3
+1865,2024-08-26,South,West Bengal,Kolkata,2569,Retail,Electronics,Monitor,3,29790,20,Offline,Rohit,89370,17874.0,71496.0
+1866,2024-02-25,North,Delhi,Chennai,2275,Retail,Furniture,Cabinet,8,16516,0,Offline,Priya,132128,0.0,132128.0
+1867,2024-12-15,West,Maharashtra,Delhi,2049,Retail,Electronics,Monitor,4,32612,20,Offline,Arjun,130448,26089.6,104358.4
+1868,2024-04-16,West,Tamil Nadu,Delhi,2357,Retail,Furniture,Printer,6,29013,15,Online,Neha,174078,26111.7,147966.3
+1869,2024-11-14,North,Delhi,Kolkata,2563,Corporate,Electronics,Printer,6,3456,10,Offline,Amit,20736,2073.6,18662.4
+1870,2024-02-17,West,Karnataka,Mumbai,2484,Retail,Electronics,Printer,3,8577,0,Online,Neha,25731,0.0,25731.0
+1871,2024-03-01,North,Karnataka,Mumbai,2083,Corporate,Electronics,Router,5,36990,15,Offline,Priya,184950,27742.5,157207.5
+1872,2024-12-02,North,Delhi,Bengaluru,2583,Retail,Electronics,Desk,3,45327,5,Offline,Sneha,135981,6799.05,129181.95
+1873,2024-01-26,North,Maharashtra,Kolkata,2295,Retail,Furniture,Chair,1,38355,10,Online,Neha,38355,3835.5,34519.5
+1874,2024-10-18,South,Karnataka,Chennai,2235,Corporate,Office Supplies,Desk,7,43606,15,Offline,Rohit,305242,45786.3,259455.7
+1875,2024-09-13,West,West Bengal,Kolkata,2055,Corporate,Electronics,Monitor,4,35438,15,Online,Sneha,141752,21262.8,120489.2
+1876,2024-01-08,North,Delhi,Bengaluru,2359,Retail,Furniture,Laptop,7,36659,0,Online,Priya,256613,0.0,256613.0
+1877,2024-04-22,West,Delhi,Kolkata,2109,Corporate,Furniture,Chair,3,40210,5,Offline,Neha,120630,6031.5,114598.5
+1878,2024-12-20,South,Karnataka,Kolkata,2191,Corporate,Electronics,Laptop,5,18500,15,Offline,Amit,92500,13875.0,78625.0
+1879,2024-09-09,North,Maharashtra,Bengaluru,2092,Corporate,Office Supplies,Cabinet,5,14306,10,Offline,Neha,71530,7153.0,64377.0
+1880,2024-06-28,East,West Bengal,Mumbai,2567,Corporate,Electronics,Router,2,48060,15,Offline,Neha,96120,14418.0,81702.0
+1881,2024-07-25,South,Maharashtra,Chennai,2059,Corporate,Furniture,Monitor,2,13309,20,Online,Arjun,26618,5323.6,21294.4
+1882,2024-10-29,East,Tamil Nadu,Bengaluru,2038,Corporate,Office Supplies,Router,4,15355,10,Offline,Neha,61420,6142.0,55278.0
+1883,2024-05-06,West,Tamil Nadu,Delhi,2539,Corporate,Furniture,Monitor,4,42376,10,Offline,Priya,169504,16950.4,152553.6
+1884,2024-02-25,West,Karnataka,Mumbai,2048,Corporate,Electronics,Laptop,4,29888,15,Offline,Amit,119552,17932.8,101619.2
+1885,2024-08-01,South,Karnataka,Delhi,2419,Retail,Office Supplies,Laptop,6,6958,0,Offline,Priya,41748,0.0,41748.0
+1886,2024-01-14,West,Karnataka,Mumbai,2012,Corporate,Furniture,Laptop,2,36024,10,Offline,Rohit,72048,7204.8,64843.2
+1887,2024-01-28,East,Tamil Nadu,Chennai,2035,Retail,Furniture,Monitor,6,7353,20,Online,Sneha,44118,8823.6,35294.4
+1888,2024-03-18,North,Maharashtra,Chennai,2100,Corporate,Furniture,Printer,7,40977,0,Offline,Neha,286839,0.0,286839.0
+1889,2024-08-03,North,Maharashtra,Kolkata,2085,Corporate,Electronics,Laptop,3,32722,0,Online,Arjun,98166,0.0,98166.0
+1890,2024-12-30,North,Karnataka,Delhi,2515,Corporate,Office Supplies,Router,8,18820,0,Offline,Amit,150560,0.0,150560.0
+1891,2024-06-02,South,West Bengal,Mumbai,2222,Corporate,Electronics,Cabinet,2,29118,10,Offline,Arjun,58236,5823.6,52412.4
+1892,2024-01-14,West,Maharashtra,Chennai,2337,Retail,Electronics,Chair,8,46115,0,Offline,Arjun,368920,0.0,368920.0
+1893,2024-07-05,East,Tamil Nadu,Bengaluru,2165,Retail,Electronics,Monitor,5,17852,15,Online,Arjun,89260,13389.0,75871.0
+1894,2024-11-07,West,Delhi,Chennai,2382,Corporate,Office Supplies,Router,2,7797,0,Offline,Neha,15594,0.0,15594.0
+1895,2024-01-07,West,Delhi,Bengaluru,2375,Retail,Electronics,Desk,7,28440,20,Online,Amit,199080,39816.0,159264.0
+1896,2024-01-03,West,Delhi,Mumbai,2470,Corporate,Electronics,Cabinet,2,49524,5,Online,Amit,99048,4952.4,94095.6
+1897,2024-04-20,North,West Bengal,Chennai,2030,Corporate,Electronics,Desk,6,3703,20,Offline,Arjun,22218,4443.6,17774.4
+1898,2024-08-25,East,Karnataka,Chennai,2374,Retail,Electronics,Chair,3,39767,10,Online,Sneha,119301,11930.1,107370.9
+1899,2024-12-28,East,Tamil Nadu,Mumbai,2010,Retail,Furniture,Printer,9,38441,0,Offline,Neha,345969,0.0,345969.0
+1900,2024-08-26,West,West Bengal,Chennai,2301,Corporate,Electronics,Laptop,3,17773,0,Offline,Neha,53319,0.0,53319.0
+1901,2024-09-30,North,Tamil Nadu,Bengaluru,2095,Corporate,Furniture,Monitor,3,25868,15,Online,Priya,77604,11640.6,65963.4
+1902,2024-10-20,North,Tamil Nadu,Chennai,2189,Retail,Electronics,Router,5,12150,0,Offline,Neha,60750,0.0,60750.0
+1903,2024-08-14,East,Karnataka,Delhi,2452,Corporate,Office Supplies,Laptop,7,31484,20,Offline,Arjun,220388,44077.6,176310.4
+1904,2024-01-15,North,Delhi,Kolkata,2191,Retail,Furniture,Router,8,42441,10,Online,Rohit,339528,33952.8,305575.2
+1905,2024-07-10,North,Karnataka,Bengaluru,2485,Corporate,Furniture,Monitor,7,7882,5,Online,Arjun,55174,2758.7,52415.3
+1906,2024-04-28,North,West Bengal,Delhi,2265,Corporate,Furniture,Desk,9,1301,0,Online,Amit,11709,0.0,11709.0
+1907,2024-01-28,South,West Bengal,Mumbai,2423,Retail,Furniture,Laptop,5,41502,5,Online,Neha,207510,10375.5,197134.5
+1908,2024-07-20,West,West Bengal,Bengaluru,2127,Retail,Office Supplies,Chair,3,47165,0,Online,Neha,141495,0.0,141495.0
+1909,2024-02-08,East,Karnataka,Kolkata,2237,Retail,Electronics,Printer,6,48465,10,Online,Priya,290790,29079.0,261711.0
+1910,2024-09-29,East,Tamil Nadu,Kolkata,2354,Corporate,Furniture,Chair,5,20233,20,Offline,Rohit,101165,20233.0,80932.0
+1911,2024-08-18,South,Tamil Nadu,Mumbai,2111,Corporate,Office Supplies,Printer,4,10469,10,Online,Neha,41876,4187.6,37688.4
+1912,2024-03-26,West,Maharashtra,Mumbai,2445,Corporate,Furniture,Cabinet,2,36469,5,Online,Priya,72938,3646.9,69291.1
+1913,2024-05-05,East,West Bengal,Bengaluru,2342,Corporate,Electronics,Router,7,17233,0,Offline,Priya,120631,0.0,120631.0
+1914,2024-10-26,North,Tamil Nadu,Chennai,2144,Retail,Furniture,Laptop,5,32949,5,Offline,Rohit,164745,8237.25,156507.75
+1915,2024-01-25,East,Maharashtra,Mumbai,2064,Corporate,Office Supplies,Laptop,4,26643,20,Online,Arjun,106572,21314.4,85257.6
+1916,2024-05-24,North,Tamil Nadu,Chennai,2246,Corporate,Electronics,Cabinet,8,26205,10,Online,Arjun,209640,20964.0,188676.0
+1917,2024-01-13,South,West Bengal,Delhi,2489,Corporate,Office Supplies,Printer,9,28863,5,Offline,Arjun,259767,12988.35,246778.65
+1918,2024-07-30,North,Delhi,Kolkata,2438,Retail,Electronics,Desk,9,31220,5,Online,Sneha,280980,14049.0,266931.0
+1919,2024-01-25,East,West Bengal,Chennai,2105,Corporate,Electronics,Monitor,3,10472,20,Online,Arjun,31416,6283.2,25132.8
+1920,2024-03-08,East,Karnataka,Kolkata,2180,Corporate,Electronics,Chair,3,33851,0,Offline,Rohit,101553,0.0,101553.0
+1921,2024-03-07,East,Tamil Nadu,Chennai,2183,Retail,Furniture,Cabinet,5,45987,5,Online,Sneha,229935,11496.75,218438.25
+1922,2024-08-20,South,Tamil Nadu,Delhi,2225,Corporate,Office Supplies,Router,5,36645,20,Offline,Arjun,183225,36645.0,146580.0
+1923,2024-04-18,South,Karnataka,Mumbai,2088,Corporate,Office Supplies,Cabinet,2,22912,0,Online,Sneha,45824,0.0,45824.0
+1924,2024-05-25,West,Karnataka,Delhi,2529,Retail,Office Supplies,Chair,1,24578,0,Offline,Rohit,24578,0.0,24578.0
+1925,2024-04-20,East,Delhi,Mumbai,2370,Corporate,Electronics,Chair,8,23080,10,Offline,Arjun,184640,18464.0,166176.0
+1926,2024-08-15,North,Tamil Nadu,Mumbai,2398,Corporate,Furniture,Router,3,15355,20,Offline,Amit,46065,9213.0,36852.0
+1927,2024-04-20,South,Tamil Nadu,Kolkata,2105,Corporate,Electronics,Router,1,36669,0,Online,Neha,36669,0.0,36669.0
+1928,2024-02-03,East,Delhi,Delhi,2270,Retail,Office Supplies,Laptop,1,46904,10,Offline,Rohit,46904,4690.4,42213.6
+1929,2024-04-20,East,Maharashtra,Chennai,2502,Corporate,Furniture,Chair,2,20069,15,Online,Priya,40138,6020.7,34117.3
+1930,2024-09-20,South,Delhi,Delhi,2524,Corporate,Furniture,Monitor,6,49006,20,Offline,Priya,294036,58807.2,235228.8
+1931,2024-08-23,West,West Bengal,Kolkata,2031,Retail,Furniture,Monitor,6,26238,15,Offline,Rohit,157428,23614.2,133813.8
+1932,2024-03-23,South,Tamil Nadu,Mumbai,2392,Retail,Office Supplies,Printer,3,7272,0,Offline,Priya,21816,0.0,21816.0
+1933,2024-02-11,South,Karnataka,Kolkata,2039,Corporate,Furniture,Cabinet,4,25374,20,Online,Rohit,101496,20299.2,81196.8
+1934,2024-04-10,North,West Bengal,Bengaluru,2217,Corporate,Furniture,Router,2,20231,10,Online,Amit,40462,4046.2,36415.8
+1935,2024-01-06,North,Tamil Nadu,Bengaluru,2081,Corporate,Electronics,Laptop,2,10631,0,Offline,Rohit,21262,0.0,21262.0
+1936,2024-06-28,West,Delhi,Chennai,2200,Corporate,Electronics,Monitor,7,1288,20,Online,Arjun,9016,1803.2,7212.8
+1937,2024-10-08,East,West Bengal,Kolkata,2446,Retail,Furniture,Desk,1,16684,20,Online,Arjun,16684,3336.8,13347.2
+1938,2024-11-15,South,Tamil Nadu,Chennai,2427,Corporate,Furniture,Laptop,7,31397,15,Online,Sneha,219779,32966.85,186812.15
+1939,2024-08-13,West,Maharashtra,Chennai,2037,Retail,Electronics,Laptop,1,3389,0,Offline,Priya,3389,0.0,3389.0
+1940,2024-11-10,North,Maharashtra,Bengaluru,2210,Retail,Electronics,Monitor,6,10069,10,Online,Neha,60414,6041.4,54372.6
+1941,2024-12-30,South,Karnataka,Chennai,2443,Corporate,Electronics,Desk,3,22157,10,Offline,Priya,66471,6647.1,59823.9
+1942,2024-08-16,East,Tamil Nadu,Bengaluru,2326,Corporate,Office Supplies,Printer,8,10641,0,Offline,Rohit,85128,0.0,85128.0
+1943,2024-10-15,North,Maharashtra,Mumbai,2226,Retail,Office Supplies,Monitor,6,20156,0,Offline,Neha,120936,0.0,120936.0
+1944,2024-05-29,North,Delhi,Kolkata,2047,Retail,Electronics,Desk,2,22118,5,Online,Neha,44236,2211.8,42024.2
+1945,2024-10-03,North,Tamil Nadu,Chennai,2017,Corporate,Furniture,Laptop,8,12434,15,Offline,Priya,99472,14920.8,84551.2
+1946,2024-07-16,West,Delhi,Bengaluru,2438,Retail,Electronics,Desk,5,43037,0,Online,Neha,215185,0.0,215185.0
+1947,2024-03-10,East,Delhi,Delhi,2186,Corporate,Office Supplies,Laptop,8,23786,0,Online,Neha,190288,0.0,190288.0
+1948,2024-04-21,South,Maharashtra,Chennai,2344,Corporate,Furniture,Cabinet,8,8112,5,Offline,Arjun,64896,3244.8,61651.2
+1949,2024-01-04,West,Tamil Nadu,Mumbai,2223,Retail,Office Supplies,Monitor,6,32569,5,Offline,Amit,195414,9770.7,185643.3
+1950,2024-12-15,West,West Bengal,Mumbai,2487,Retail,Furniture,Router,2,16705,20,Offline,Rohit,33410,6682.0,26728.0
+1951,2024-11-26,West,Maharashtra,Delhi,2228,Corporate,Office Supplies,Monitor,8,27831,10,Online,Priya,222648,22264.8,200383.2
+1952,2024-11-13,North,Maharashtra,Bengaluru,2389,Retail,Furniture,Cabinet,6,14434,15,Online,Arjun,86604,12990.6,73613.4
+1953,2024-12-15,East,Tamil Nadu,Chennai,2588,Corporate,Furniture,Chair,6,10595,20,Offline,Sneha,63570,12714.0,50856.0
+1954,2024-04-04,West,Tamil Nadu,Bengaluru,2187,Corporate,Furniture,Chair,8,26458,0,Offline,Neha,211664,0.0,211664.0
+1955,2024-05-31,South,Delhi,Mumbai,2269,Corporate,Furniture,Chair,1,37508,5,Online,Neha,37508,1875.4,35632.6
+1956,2024-11-06,East,Tamil Nadu,Bengaluru,2309,Retail,Office Supplies,Monitor,2,19206,10,Online,Priya,38412,3841.2,34570.8
+1957,2024-05-16,South,Delhi,Mumbai,2131,Corporate,Office Supplies,Printer,9,44016,20,Offline,Amit,396144,79228.8,316915.2
+1958,2024-09-03,East,Maharashtra,Bengaluru,2550,Corporate,Furniture,Monitor,8,38566,10,Online,Amit,308528,30852.8,277675.2
+1959,2024-08-30,South,Karnataka,Delhi,2071,Corporate,Furniture,Cabinet,7,31972,5,Online,Priya,223804,11190.2,212613.8
+1960,2024-01-31,North,West Bengal,Kolkata,2186,Corporate,Office Supplies,Cabinet,7,35129,20,Online,Priya,245903,49180.6,196722.4
+1961,2024-02-09,West,Maharashtra,Delhi,2485,Corporate,Furniture,Router,5,47410,20,Online,Arjun,237050,47410.0,189640.0
+1962,2024-08-16,South,Tamil Nadu,Delhi,2190,Corporate,Furniture,Desk,2,23504,10,Online,Priya,47008,4700.8,42307.2
+1963,2024-02-05,East,West Bengal,Kolkata,2421,Corporate,Furniture,Monitor,6,20931,5,Online,Sneha,125586,6279.3,119306.7
+1964,2024-08-10,West,Karnataka,Kolkata,2119,Corporate,Electronics,Monitor,3,40588,0,Offline,Arjun,121764,0.0,121764.0
+1965,2024-01-06,West,Karnataka,Chennai,2219,Corporate,Furniture,Laptop,4,44635,20,Online,Neha,178540,35708.0,142832.0
+1966,2024-11-17,East,Delhi,Chennai,2052,Corporate,Electronics,Cabinet,2,38515,0,Offline,Neha,77030,0.0,77030.0
+1967,2024-08-07,South,West Bengal,Delhi,2450,Corporate,Furniture,Laptop,2,35002,5,Offline,Neha,70004,3500.2,66503.8
+1968,2024-03-15,North,Delhi,Delhi,2411,Retail,Office Supplies,Laptop,8,31885,20,Online,Neha,255080,51016.0,204064.0
+1969,2024-01-04,North,Maharashtra,Mumbai,2236,Corporate,Electronics,Monitor,8,5163,20,Offline,Rohit,41304,8260.8,33043.2
+1970,2024-11-30,South,West Bengal,Mumbai,2405,Corporate,Electronics,Printer,6,39177,0,Offline,Sneha,235062,0.0,235062.0
+1971,2024-05-13,West,Maharashtra,Chennai,2421,Corporate,Furniture,Desk,5,13318,15,Offline,Arjun,66590,9988.5,56601.5
+1972,2024-04-27,West,Delhi,Chennai,2246,Retail,Furniture,Desk,8,23186,0,Online,Arjun,185488,0.0,185488.0
+1973,2024-04-03,West,West Bengal,Mumbai,2071,Corporate,Electronics,Cabinet,4,24477,0,Offline,Neha,97908,0.0,97908.0
+1974,2024-03-02,West,Delhi,Mumbai,2184,Retail,Office Supplies,Router,4,41431,15,Online,Amit,165724,24858.6,140865.4
+1975,2024-07-12,South,West Bengal,Bengaluru,2005,Corporate,Office Supplies,Cabinet,5,18954,5,Offline,Arjun,94770,4738.5,90031.5
+1976,2024-11-30,West,Delhi,Bengaluru,2205,Corporate,Furniture,Printer,1,13858,5,Offline,Sneha,13858,692.9,13165.1
+1977,2024-07-21,East,Karnataka,Mumbai,2543,Retail,Office Supplies,Printer,1,7168,20,Offline,Priya,7168,1433.6,5734.4
+1978,2024-01-26,West,Delhi,Bengaluru,2386,Corporate,Office Supplies,Desk,2,46284,10,Offline,Sneha,92568,9256.8,83311.2
+1979,2024-06-21,North,Karnataka,Kolkata,2075,Retail,Furniture,Chair,8,41269,10,Online,Neha,330152,33015.2,297136.8
+1980,2024-10-26,West,Delhi,Chennai,2176,Retail,Office Supplies,Laptop,7,10421,20,Offline,Neha,72947,14589.4,58357.6
+1981,2024-05-12,South,West Bengal,Chennai,2348,Corporate,Furniture,Laptop,9,35459,10,Offline,Rohit,319131,31913.1,287217.9
+1982,2024-11-21,North,West Bengal,Mumbai,2254,Corporate,Electronics,Desk,5,32828,0,Online,Arjun,164140,0.0,164140.0
+1983,2024-04-27,South,West Bengal,Delhi,2307,Corporate,Furniture,Cabinet,2,9359,0,Online,Arjun,18718,0.0,18718.0
+1984,2024-11-19,South,Tamil Nadu,Mumbai,2344,Corporate,Electronics,Printer,7,24470,15,Online,Arjun,171290,25693.5,145596.5
+1985,2024-10-01,North,Maharashtra,Bengaluru,2126,Retail,Electronics,Cabinet,8,9372,15,Offline,Neha,74976,11246.4,63729.6
+1986,2024-07-30,South,West Bengal,Delhi,2286,Retail,Office Supplies,Router,7,19730,20,Online,Arjun,138110,27622.0,110488.0
+1987,2024-08-12,South,Karnataka,Bengaluru,2595,Corporate,Office Supplies,Chair,7,27208,20,Online,Amit,190456,38091.2,152364.8
+1988,2024-01-20,West,West Bengal,Kolkata,2486,Retail,Office Supplies,Desk,5,19347,20,Online,Amit,96735,19347.0,77388.0
+1989,2024-04-22,East,Tamil Nadu,Bengaluru,2382,Retail,Furniture,Laptop,2,27605,0,Online,Priya,55210,0.0,55210.0
+1990,2024-05-19,South,Karnataka,Kolkata,2405,Corporate,Office Supplies,Monitor,6,5422,10,Online,Arjun,32532,3253.2,29278.8
+1991,2024-02-16,South,Tamil Nadu,Kolkata,2387,Retail,Electronics,Cabinet,4,4892,20,Online,Rohit,19568,3913.6,15654.4
+1992,2024-01-01,South,Karnataka,Bengaluru,2524,Retail,Office Supplies,Printer,2,14041,20,Offline,Priya,28082,5616.4,22465.6
+1993,2024-03-30,West,Delhi,Bengaluru,2556,Corporate,Office Supplies,Monitor,9,20051,0,Online,Neha,180459,0.0,180459.0
+1994,2024-05-21,East,Maharashtra,Kolkata,2275,Retail,Furniture,Router,7,19881,0,Offline,Arjun,139167,0.0,139167.0
+1995,2024-11-15,North,Maharashtra,Delhi,2499,Corporate,Furniture,Desk,6,48283,0,Online,Amit,289698,0.0,289698.0
+1996,2024-02-07,West,Tamil Nadu,Kolkata,2336,Retail,Electronics,Cabinet,5,36495,10,Online,Rohit,182475,18247.5,164227.5
+1997,2024-10-19,West,Maharashtra,Chennai,2480,Corporate,Furniture,Laptop,3,23448,20,Online,Priya,70344,14068.8,56275.2
+1998,2024-05-18,East,Tamil Nadu,Kolkata,2272,Retail,Office Supplies,Cabinet,4,27228,5,Offline,Rohit,108912,5445.6,103466.4
+1999,2024-12-21,East,Tamil Nadu,Delhi,2057,Retail,Furniture,Chair,3,2524,5,Online,Arjun,7572,378.6,7193.4
+2000,2024-11-28,West,Tamil Nadu,Chennai,2327,Corporate,Electronics,Monitor,8,17213,20,Online,Sneha,137704,27540.8,110163.2
